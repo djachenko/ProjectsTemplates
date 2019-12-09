@@ -1,0 +1,8434 @@
+[
+  {
+    "id": "1323/1",
+    "posX": 1865,
+    "posY": 686,
+    "neighbors": "279",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1323",
+    "posX": 1861,
+    "posY": 742,
+    "neighbors": "280",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1322",
+    "posX": 1772,
+    "posY": 729,
+    "neighbors": "281",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1321",
+    "posX": 1702,
+    "posY": 686,
+    "neighbors": "281",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1324",
+    "posX": 1825,
+    "posY": 651,
+    "neighbors": "279",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1325",
+    "posX": 1837,
+    "posY": 612,
+    "neighbors": "283",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100001",
+    "posX": 1735,
+    "posY": 576,
+    "neighbors": "284 200001",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1326",
+    "posX": 1837,
+    "posY": 576,
+    "neighbors": "285",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100300",
+    "posX": 1697,
+    "posY": 538,
+    "neighbors": "286 200300 300300 400300",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100200",
+    "posX": 1744,
+    "posY": 480,
+    "neighbors": "288",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1327",
+    "posX": 1837,
+    "posY": 495,
+    "neighbors": "287",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1329",
+    "posX": 1837,
+    "posY": 376,
+    "neighbors": "290",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1331",
+    "posX": 1837,
+    "posY": 331,
+    "neighbors": "291",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1311",
+    "posX": 1699,
+    "posY": 382,
+    "neighbors": "289",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1310",
+    "posX": 1699,
+    "posY": 300,
+    "neighbors": "292",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1332",
+    "posX": 1837,
+    "posY": 300,
+    "neighbors": "292",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100400",
+    "posX": 1735,
+    "posY": 197,
+    "neighbors": "294",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1333",
+    "posX": 1859,
+    "posY": 102,
+    "neighbors": "296",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1334",
+    "posX": 1800,
+    "posY": 125,
+    "neighbors": "298",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1335",
+    "posX": 1748,
+    "posY": 102,
+    "neighbors": "298",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1336",
+    "posX": 1697,
+    "posY": 125,
+    "neighbors": "298",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100301",
+    "posX": 1618,
+    "posY": 115,
+    "neighbors": "302 200301 300301 400301",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100201",
+    "posX": 1480,
+    "posY": 143,
+    "neighbors": "303",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1355",
+    "posX": 1422,
+    "posY": 190,
+    "neighbors": "304",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1354",
+    "posX": 1342,
+    "posY": 190,
+    "neighbors": "306",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100003",
+    "posX": 1541,
+    "posY": 198,
+    "neighbors": "300 301 200003",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100302",
+    "posX": 1379,
+    "posY": 115,
+    "neighbors": "305 200302 300302 400302",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1266",
+    "posX": 1209,
+    "posY": 102,
+    "neighbors": "309",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1265",
+    "posX": 1169,
+    "posY": 123,
+    "neighbors": "312",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1264",
+    "posX": 1129,
+    "posY": 102,
+    "neighbors": "312",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100100",
+    "posX": 1264,
+    "posY": 102,
+    "neighbors": "308",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1353",
+    "posX": 1303,
+    "posY": 190,
+    "neighbors": "307",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1267",
+    "posX": 1209,
+    "posY": 190,
+    "neighbors": "309",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1268",
+    "posX": 1168,
+    "posY": 190,
+    "neighbors": "310",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1269",
+    "posX": 1129,
+    "posY": 190,
+    "neighbors": "311",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1270",
+    "posX": 1090,
+    "posY": 190,
+    "neighbors": "313",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100004",
+    "posX": 1090,
+    "posY": 129,
+    "neighbors": "313 200004",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1262",
+    "posX": 964,
+    "posY": 102,
+    "neighbors": "316",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1261",
+    "posX": 932,
+    "posY": 102,
+    "neighbors": "317",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1272",
+    "posX": 1010,
+    "posY": 199,
+    "neighbors": "315",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1273",
+    "posX": 971,
+    "posY": 190,
+    "neighbors": "315",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1274",
+    "posX": 932,
+    "posY": 190,
+    "neighbors": "317",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1260",
+    "posX": 891,
+    "posY": 102,
+    "neighbors": "318",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100005",
+    "posX": 602,
+    "posY": 195,
+    "neighbors": "325 200005",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1276",
+    "posX": 693,
+    "posY": 190,
+    "neighbors": "319",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1280",
+    "posX": 522,
+    "posY": 190,
+    "neighbors": "326",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1277",
+    "posX": 644,
+    "posY": 190,
+    "neighbors": "322",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1258",
+    "posX": 693,
+    "posY": 102,
+    "neighbors": "319",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1257",
+    "posX": 653,
+    "posY": 102,
+    "neighbors": "321",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1256",
+    "posX": 602,
+    "posY": 102,
+    "neighbors": "323",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100202",
+    "posX": 503,
+    "posY": 139,
+    "neighbors": "327",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1281",
+    "posX": 444,
+    "posY": 190,
+    "neighbors": "329",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1282",
+    "posX": 406,
+    "posY": 190,
+    "neighbors": "330",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100401",
+    "posX": 450,
+    "posY": 121,
+    "neighbors": "328",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1247",
+    "posX": 406,
+    "posY": 102,
+    "neighbors": "330",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1246",
+    "posX": 326,
+    "posY": 102,
+    "neighbors": "332",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1245",
+    "posX": 286,
+    "posY": 102,
+    "neighbors": "333",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1244",
+    "posX": 243,
+    "posY": 102,
+    "neighbors": "334",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1243",
+    "posX": 212,
+    "posY": 102,
+    "neighbors": "335",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1283",
+    "posX": 365,
+    "posY": 190,
+    "neighbors": "331",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100006",
+    "posX": 158,
+    "posY": 160,
+    "neighbors": "335 337 200006",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100303",
+    "posX": 120,
+    "posY": 246,
+    "neighbors": "336 200303 300303 400303 500300",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1238",
+    "posX": 85,
+    "posY": 326,
+    "neighbors": "338",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1205",
+    "posX": 250,
+    "posY": 363,
+    "neighbors": "339",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1206",
+    "posX": 202,
+    "posY": 402,
+    "neighbors": "341",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1207",
+    "posX": 250,
+    "posY": 444,
+    "neighbors": "341",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1237",
+    "posX": 85,
+    "posY": 444,
+    "neighbors": "340",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100203",
+    "posX": 139,
+    "posY": 503,
+    "neighbors": "342",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1208",
+    "posX": 202,
+    "posY": 485,
+    "neighbors": "341",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1209",
+    "posX": 250,
+    "posY": 523,
+    "neighbors": "343",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100007",
+    "posX": 197,
+    "posY": 594,
+    "neighbors": "346 200007",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1230",
+    "posX": 85,
+    "posY": 607,
+    "neighbors": "345",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1212",
+    "posX": 250,
+    "posY": 641,
+    "neighbors": "347",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1229",
+    "posX": 127,
+    "posY": 684,
+    "neighbors": "350",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1228",
+    "posX": 85,
+    "posY": 739,
+    "neighbors": "350",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1213",
+    "posX": 250,
+    "posY": 730,
+    "neighbors": "348",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1226",
+    "posX": 85,
+    "posY": 855,
+    "neighbors": "352",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1215",
+    "posX": 250,
+    "posY": 849,
+    "neighbors": "351",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1224",
+    "posX": 85,
+    "posY": 932,
+    "neighbors": "354",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1217",
+    "posX": 250,
+    "posY": 1013,
+    "neighbors": "356",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100008",
+    "posX": 129,
+    "posY": 1089,
+    "neighbors": "357 200008",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1222",
+    "posX": 85,
+    "posY": 1129,
+    "neighbors": "358",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1219",
+    "posX": 250,
+    "posY": 1129,
+    "neighbors": "358",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1220",
+    "posX": 250,
+    "posY": 1206,
+    "neighbors": "359",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1221",
+    "posX": 85,
+    "posY": 1206,
+    "neighbors": "359",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100101",
+    "posX": 85,
+    "posY": 1265,
+    "neighbors": "360",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1154",
+    "posX": 250,
+    "posY": 1302,
+    "neighbors": "361",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1155",
+    "posX": 250,
+    "posY": 1381,
+    "neighbors": "362",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100304",
+    "posX": 123,
+    "posY": 1384,
+    "neighbors": "364 200304 300304 400304",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100204",
+    "posX": 143,
+    "posY": 1479,
+    "neighbors": "366",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1156",
+    "posX": 250,
+    "posY": 1460,
+    "neighbors": "365",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100009",
+    "posX": 198,
+    "posY": 1539,
+    "neighbors": "368 370 200009",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100305",
+    "posX": 118,
+    "posY": 1620,
+    "neighbors": "369 200305 300305 400305",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1138",
+    "posX": 120,
+    "posY": 1692,
+    "neighbors": "372",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1137",
+    "posX": 85,
+    "posY": 1740,
+    "neighbors": "372",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100402",
+    "posX": 197,
+    "posY": 1733,
+    "neighbors": "376",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1136",
+    "posX": 85,
+    "posY": 1769,
+    "neighbors": "373",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1135",
+    "posX": 122,
+    "posY": 1810,
+    "neighbors": "375",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1134",
+    "posX": 85,
+    "posY": 1860,
+    "neighbors": "375",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100010",
+    "posX": 208,
+    "posY": 1798,
+    "neighbors": "377 200010",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1133",
+    "posX": 244,
+    "posY": 1800,
+    "neighbors": "378",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1132",
+    "posX": 297,
+    "posY": 1800,
+    "neighbors": "379",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1131",
+    "posX": 339,
+    "posY": 1800,
+    "neighbors": "381",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1130",
+    "posX": 387,
+    "posY": 1800,
+    "neighbors": "383",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1128",
+    "posX": 418,
+    "posY": 1800,
+    "neighbors": "384",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1127",
+    "posX": 463,
+    "posY": 1800,
+    "neighbors": "385",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1110",
+    "posX": 301,
+    "posY": 1707,
+    "neighbors": "380",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1112",
+    "posX": 379,
+    "posY": 1732,
+    "neighbors": "382",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1112/1",
+    "posX": 418,
+    "posY": 1707,
+    "neighbors": "384",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100205",
+    "posX": 480,
+    "posY": 1744,
+    "neighbors": "386",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100306",
+    "posX": 539,
+    "posY": 1695,
+    "neighbors": "387 200306 300306 400306",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100011",
+    "posX": 577,
+    "posY": 1733,
+    "neighbors": "390 200011",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1125",
+    "posX": 574,
+    "posY": 1800,
+    "neighbors": "388",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1123",
+    "posX": 687,
+    "posY": 1800,
+    "neighbors": "391",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1121",
+    "posX": 713,
+    "posY": 1709,
+    "neighbors": "393",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1122",
+    "posX": 779,
+    "posY": 1816,
+    "neighbors": "392",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "100002",
+    "posX": 1801,
+    "posY": 206,
+    "neighbors": "293 200002",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1259",
+    "posX": 727,
+    "posY": 102,
+    "neighbors": "320",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1225",
+    "posX": 85,
+    "posY": 888,
+    "neighbors": "353",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "1216",
+    "posX": 250,
+    "posY": 971,
+    "neighbors": "355",
+    "type": "endpoint",
+    "floor": 1
+  },
+  {
+    "id": "279",
+    "posX": 1825,
+    "posY": 686,
+    "neighbors": "1323/1 280 1324 282",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "280",
+    "posX": 1825,
+    "posY": 704,
+    "neighbors": "279 1323 282",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "281",
+    "posX": 1772,
+    "posY": 686,
+    "neighbors": "282 1322 1321 283",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "282",
+    "posX": 1798,
+    "posY": 686,
+    "neighbors": "279 280 281",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "283",
+    "posX": 1772,
+    "posY": 612,
+    "neighbors": "281 284 285 1325",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "284",
+    "posX": 1735,
+    "posY": 612,
+    "neighbors": "283 100001",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "285",
+    "posX": 1772,
+    "posY": 576,
+    "neighbors": "283 1326 286",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "286",
+    "posX": 1772,
+    "posY": 538,
+    "neighbors": "285 100300 287",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "287",
+    "posX": 1772,
+    "posY": 495,
+    "neighbors": "286 1327 288",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "288",
+    "posX": 1772,
+    "posY": 480,
+    "neighbors": "287 100200 289",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "289",
+    "posX": 1772,
+    "posY": 382,
+    "neighbors": "288 1311 290",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "290",
+    "posX": 1772,
+    "posY": 376,
+    "neighbors": "289 1329 291",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "291",
+    "posX": 1772,
+    "posY": 331,
+    "neighbors": "290 1331 292",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "292",
+    "posX": 1772,
+    "posY": 300,
+    "neighbors": "291 1332 1310 293",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "293",
+    "posX": 1772,
+    "posY": 206,
+    "neighbors": "292 100002 294",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "294",
+    "posX": 1772,
+    "posY": 197,
+    "neighbors": "293 100400 295",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "295",
+    "posX": 1772,
+    "posY": 160,
+    "neighbors": "294 296 297",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "296",
+    "posX": 1859,
+    "posY": 160,
+    "neighbors": "295 1333",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "297",
+    "posX": 1748,
+    "posY": 160,
+    "neighbors": "295 298 299",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "298",
+    "posX": 1748,
+    "posY": 125,
+    "neighbors": "297 1334 1335 1336",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "299",
+    "posX": 1699,
+    "posY": 160,
+    "neighbors": "297 300",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "300",
+    "posX": 1589,
+    "posY": 160,
+    "neighbors": "299 302 301 100003",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "301",
+    "posX": 1541,
+    "posY": 160,
+    "neighbors": "302 300 100003 303",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "302",
+    "posX": 1589,
+    "posY": 115,
+    "neighbors": "300 301 100301",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "303",
+    "posX": 1480,
+    "posY": 160,
+    "neighbors": "301 100201 304",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "304",
+    "posX": 1422,
+    "posY": 160,
+    "neighbors": "303 305 1355 306",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "305",
+    "posX": 1422,
+    "posY": 115,
+    "neighbors": "304 100302",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "306",
+    "posX": 1342,
+    "posY": 160,
+    "neighbors": "304 1354 307",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "307",
+    "posX": 1303,
+    "posY": 160,
+    "neighbors": "306 1353 308",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "308",
+    "posX": 1264,
+    "posY": 160,
+    "neighbors": "307 100100 309",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "309",
+    "posX": 1209,
+    "posY": 160,
+    "neighbors": "308 1266 1267 310",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "310",
+    "posX": 1168,
+    "posY": 160,
+    "neighbors": "1268 309 311",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "311",
+    "posX": 1129,
+    "posY": 160,
+    "neighbors": "310 312 1269 313",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "312",
+    "posX": 1129,
+    "posY": 123,
+    "neighbors": "311 1265 1264",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "313",
+    "posX": 1090,
+    "posY": 160,
+    "neighbors": "1270 100004 311 314",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "314",
+    "posX": 971,
+    "posY": 160,
+    "neighbors": "313 315 316",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "315",
+    "posX": 971,
+    "posY": 199,
+    "neighbors": "314 1272 1273",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "316",
+    "posX": 964,
+    "posY": 160,
+    "neighbors": "314 1262 317",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "317",
+    "posX": 932,
+    "posY": 160,
+    "neighbors": "316 1261 1274 318",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "318",
+    "posX": 891,
+    "posY": 160,
+    "neighbors": "317 1260",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "319",
+    "posX": 693,
+    "posY": 160,
+    "neighbors": "320 1258 1276 321",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "320",
+    "posX": 727,
+    "posY": 160,
+    "neighbors": "1259 319",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "321",
+    "posX": 653,
+    "posY": 160,
+    "neighbors": "319 1257 322",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "322",
+    "posX": 644,
+    "posY": 160,
+    "neighbors": "321 1277 323",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "323",
+    "posX": 602,
+    "posY": 160,
+    "neighbors": "322 1256 324",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "324",
+    "posX": 564,
+    "posY": 160,
+    "neighbors": "323 325 326",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "325",
+    "posX": 564,
+    "posY": 195,
+    "neighbors": "324 100005",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "326",
+    "posX": 522,
+    "posY": 160,
+    "neighbors": "324 1280 327",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "327",
+    "posX": 503,
+    "posY": 160,
+    "neighbors": "326 100202 328",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "328",
+    "posX": 450,
+    "posY": 160,
+    "neighbors": "327 100401 329",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "329",
+    "posX": 444,
+    "posY": 160,
+    "neighbors": "328 1281 330",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "330",
+    "posX": 406,
+    "posY": 160,
+    "neighbors": "329 1282 1247 331",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "331",
+    "posX": 365,
+    "posY": 160,
+    "neighbors": "330 1283 332",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "332",
+    "posX": 326,
+    "posY": 160,
+    "neighbors": "331 1246 333",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "333",
+    "posX": 286,
+    "posY": 160,
+    "neighbors": "1245 332 334",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "334",
+    "posX": 243,
+    "posY": 160,
+    "neighbors": "333 1244 335",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "335",
+    "posX": 212,
+    "posY": 160,
+    "neighbors": "334 1243 100006 337",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "336",
+    "posX": 120,
+    "posY": 213,
+    "neighbors": "337 100303",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "337",
+    "posX": 163,
+    "posY": 213,
+    "neighbors": "100006 335 336 338",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "338",
+    "posX": 163,
+    "posY": 326,
+    "neighbors": "337 1238 339",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "339",
+    "posX": 163,
+    "posY": 363,
+    "neighbors": "338 1205 340",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "340",
+    "posX": 163,
+    "posY": 444,
+    "neighbors": "339 341 1237 342",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "341",
+    "posX": 202,
+    "posY": 444,
+    "neighbors": "340 1207 1206 1208",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "342",
+    "posX": 163,
+    "posY": 503,
+    "neighbors": "100203 340 343",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "343",
+    "posX": 163,
+    "posY": 523,
+    "neighbors": "342 1209 344",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "344",
+    "posX": 163,
+    "posY": 562,
+    "neighbors": "343 346 345",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "345",
+    "posX": 163,
+    "posY": 607,
+    "neighbors": "344 1230 347",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "346",
+    "posX": 197,
+    "posY": 562,
+    "neighbors": "344 100007",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "347",
+    "posX": 163,
+    "posY": 641,
+    "neighbors": "345 1212 348",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "348",
+    "posX": 163,
+    "posY": 730,
+    "neighbors": "347 1213 349",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "349",
+    "posX": 163,
+    "posY": 739,
+    "neighbors": "348 350",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "350",
+    "posX": 127,
+    "posY": 739,
+    "neighbors": "349 1228 1229",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "351",
+    "posX": 163,
+    "posY": 849,
+    "neighbors": "1215 352",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "352",
+    "posX": 163,
+    "posY": 855,
+    "neighbors": "351 1226 353",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "353",
+    "posX": 163,
+    "posY": 888,
+    "neighbors": "352 1225 354",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "354",
+    "posX": 163,
+    "posY": 932,
+    "neighbors": "353 1224 355",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "355",
+    "posX": 163,
+    "posY": 971,
+    "neighbors": "354 1216 356",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "356",
+    "posX": 163,
+    "posY": 1013,
+    "neighbors": "355 1217 357",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "357",
+    "posX": 163,
+    "posY": 1089,
+    "neighbors": "356 100008 358",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "358",
+    "posX": 163,
+    "posY": 1129,
+    "neighbors": "357 1219 1222 359",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "359",
+    "posX": 163,
+    "posY": 1206,
+    "neighbors": "358 1220 1221 360",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "360",
+    "posX": 163,
+    "posY": 1265,
+    "neighbors": "359 100101 361",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "361",
+    "posX": 163,
+    "posY": 1302,
+    "neighbors": "360 1154 362",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "362",
+    "posX": 163,
+    "posY": 1381,
+    "neighbors": "361 1155 363",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "363",
+    "posX": 163,
+    "posY": 1419,
+    "neighbors": "362 364 365",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "364",
+    "posX": 123,
+    "posY": 1419,
+    "neighbors": "363 100304",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "365",
+    "posX": 163,
+    "posY": 1460,
+    "neighbors": "363 366 1156",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "366",
+    "posX": 163,
+    "posY": 1479,
+    "neighbors": "365 100204 368",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "368",
+    "posX": 163,
+    "posY": 1539,
+    "neighbors": "100009 370 366",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "369",
+    "posX": 118,
+    "posY": 1589,
+    "neighbors": "370 100305",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "370",
+    "posX": 163,
+    "posY": 1589,
+    "neighbors": "100009 368 369 371",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "371",
+    "posX": 163,
+    "posY": 1740,
+    "neighbors": "370 372 373",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "372",
+    "posX": 120,
+    "posY": 1740,
+    "neighbors": "371 1138 1137",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "373",
+    "posX": 163,
+    "posY": 1769,
+    "neighbors": "371 1136 374 376",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "374",
+    "posX": 163,
+    "posY": 1860,
+    "neighbors": "373 375",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "375",
+    "posX": 122,
+    "posY": 1860,
+    "neighbors": "374 1134 1135",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "376",
+    "posX": 197,
+    "posY": 1769,
+    "neighbors": "373 100402 377",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "377",
+    "posX": 208,
+    "posY": 1769,
+    "neighbors": "376 100010 378",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "378",
+    "posX": 244,
+    "posY": 1769,
+    "neighbors": "377 1133 379",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "379",
+    "posX": 297,
+    "posY": 1768,
+    "neighbors": "378 1132 380",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "380",
+    "posX": 301,
+    "posY": 1768,
+    "neighbors": "379 1110 381",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "381",
+    "posX": 339,
+    "posY": 1768,
+    "neighbors": "380 1131 382 383",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "382",
+    "posX": 339,
+    "posY": 1732,
+    "neighbors": "381 1112",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "383",
+    "posX": 386,
+    "posY": 1768,
+    "neighbors": "381 1130 384",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "384",
+    "posX": 418,
+    "posY": 1768,
+    "neighbors": "383 1112/1 1128 385",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "385",
+    "posX": 463,
+    "posY": 1768,
+    "neighbors": "384 1127 386",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "386",
+    "posX": 480,
+    "posY": 1768,
+    "neighbors": "385 100205 387",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "387",
+    "posX": 539,
+    "posY": 1768,
+    "neighbors": "386 100306 388",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "388",
+    "posX": 574,
+    "posY": 1768,
+    "neighbors": "387 1125 389",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "389",
+    "posX": 617,
+    "posY": 1768,
+    "neighbors": "388 390 391",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "390",
+    "posX": 617,
+    "posY": 1733,
+    "neighbors": "389 100011",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "391",
+    "posX": 687,
+    "posY": 1768,
+    "neighbors": "389 1123 392",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "392",
+    "posX": 735,
+    "posY": 1768,
+    "neighbors": "391 393 1122",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "393",
+    "posX": 753,
+    "posY": 1750,
+    "neighbors": "392 1121",
+    "type": "waypoint",
+    "floor": 1
+  },
+  {
+    "id": "2417",
+    "posX": 1440,
+    "posY": 1151,
+    "neighbors": "394",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2418",
+    "posX": 1535,
+    "posY": 1055,
+    "neighbors": "395",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2419",
+    "posX": 1627,
+    "posY": 967,
+    "neighbors": "396",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200000",
+    "posX": 1491,
+    "posY": 901,
+    "neighbors": "397 300000",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2428",
+    "posX": 1580,
+    "posY": 847,
+    "neighbors": "398",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2427",
+    "posX": 1603,
+    "posY": 825,
+    "neighbors": "399",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2426",
+    "posX": 1640,
+    "posY": 791,
+    "neighbors": "400",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2420",
+    "posX": 1721,
+    "posY": 873,
+    "neighbors": "400",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2425",
+    "posX": 1683,
+    "posY": 744,
+    "neighbors": "401",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2424",
+    "posX": 1714,
+    "posY": 709,
+    "neighbors": "402",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2422",
+    "posX": 1844,
+    "posY": 688,
+    "neighbors": "404",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2322",
+    "posX": 1844,
+    "posY": 644,
+    "neighbors": "405",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200001",
+    "posX": 1690,
+    "posY": 576,
+    "neighbors": "406 100001 300001",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200300",
+    "posX": 1698,
+    "posY": 539,
+    "neighbors": "407 100300 300300 400300",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200200",
+    "posX": 1745,
+    "posY": 481,
+    "neighbors": "409",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2323",
+    "posX": 1844,
+    "posY": 495,
+    "neighbors": "408",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2324",
+    "posX": 1844,
+    "posY": 416,
+    "neighbors": "410",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2314",
+    "posX": 1701,
+    "posY": 416,
+    "neighbors": "410",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2313",
+    "posX": 1701,
+    "posY": 377,
+    "neighbors": "412",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2311",
+    "posX": 1701,
+    "posY": 301,
+    "neighbors": "414",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2325",
+    "posX": 1844,
+    "posY": 382,
+    "neighbors": "411",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2326",
+    "posX": 1844,
+    "posY": 330,
+    "neighbors": "413",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2327",
+    "posX": 1844,
+    "posY": 257,
+    "neighbors": "415",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200002",
+    "posX": 1804,
+    "posY": 208,
+    "neighbors": "416 100002 300002",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200400",
+    "posX": 1738,
+    "posY": 197,
+    "neighbors": "417",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2328",
+    "posX": 1754,
+    "posY": 101,
+    "neighbors": "419",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2329",
+    "posX": 1695,
+    "posY": 101,
+    "neighbors": "420",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200301",
+    "posX": 1617,
+    "posY": 116,
+    "neighbors": "424 100301 300301 400301",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200100",
+    "posX": 1265,
+    "posY": 101,
+    "neighbors": "431",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2259",
+    "posX": 1206,
+    "posY": 101,
+    "neighbors": "432",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2257",
+    "posX": 1048,
+    "posY": 101,
+    "neighbors": "437",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2256",
+    "posX": 960,
+    "posY": 101,
+    "neighbors": "439",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2254",
+    "posX": 850,
+    "posY": 101,
+    "neighbors": "441",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2253",
+    "posX": 811,
+    "posY": 101,
+    "neighbors": "442",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2252",
+    "posX": 734,
+    "posY": 101,
+    "neighbors": "444",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2251",
+    "posX": 651,
+    "posY": 101,
+    "neighbors": "445",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2242",
+    "posX": 406,
+    "posY": 103,
+    "neighbors": "452",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2241",
+    "posX": 327,
+    "posY": 101,
+    "neighbors": "454",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2240",
+    "posX": 242,
+    "posY": 101,
+    "neighbors": "455",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200006",
+    "posX": 155,
+    "posY": 154,
+    "neighbors": "458 457 100006 300006",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2304",
+    "posX": 1652,
+    "posY": 196,
+    "neighbors": "421",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2303",
+    "posX": 1615,
+    "posY": 196,
+    "neighbors": "422",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2302",
+    "posX": 1574,
+    "posY": 196,
+    "neighbors": "423",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200003",
+    "posX": 1535,
+    "posY": 196,
+    "neighbors": "425 100003 300003",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2348",
+    "posX": 1423,
+    "posY": 196,
+    "neighbors": "427",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2347",
+    "posX": 1343,
+    "posY": 196,
+    "neighbors": "429",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2346",
+    "posX": 1302,
+    "posY": 196,
+    "neighbors": "430",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200201",
+    "posX": 1482,
+    "posY": 144,
+    "neighbors": "426",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200302",
+    "posX": 1380,
+    "posY": 116,
+    "neighbors": "428 100302 300302 400302",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2260",
+    "posX": 1164,
+    "posY": 196,
+    "neighbors": "433",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2261",
+    "posX": 1086,
+    "posY": 196,
+    "neighbors": "436",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200004",
+    "posX": 1089,
+    "posY": 80,
+    "neighbors": "435 100004 300004",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2262",
+    "posX": 1007,
+    "posY": 196,
+    "neighbors": "438",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2263",
+    "posX": 890,
+    "posY": 196,
+    "neighbors": "440",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2264",
+    "posX": 850,
+    "posY": 196,
+    "neighbors": "441",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2265",
+    "posX": 772,
+    "posY": 196,
+    "neighbors": "443",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2266",
+    "posX": 640,
+    "posY": 196,
+    "neighbors": "446",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200005",
+    "posX": 601,
+    "posY": 196,
+    "neighbors": "447 100005 300005",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2269",
+    "posX": 521,
+    "posY": 196,
+    "neighbors": "448",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2270",
+    "posX": 443,
+    "posY": 196,
+    "neighbors": "451",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2271",
+    "posX": 367,
+    "posY": 196,
+    "neighbors": "453",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2272",
+    "posX": 327,
+    "posY": 196,
+    "neighbors": "454",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200202",
+    "posX": 505,
+    "posY": 139,
+    "neighbors": "449",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200401",
+    "posX": 450,
+    "posY": 120,
+    "neighbors": "450",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200303",
+    "posX": 119,
+    "posY": 247,
+    "neighbors": "456 100303 300303 400303 500300",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2203",
+    "posX": 240,
+    "posY": 325,
+    "neighbors": "459",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2204",
+    "posX": 240,
+    "posY": 405,
+    "neighbors": "460",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2205",
+    "posX": 240,
+    "posY": 444,
+    "neighbors": "462",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2235",
+    "posX": 85,
+    "posY": 325,
+    "neighbors": "459",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2234",
+    "posX": 85,
+    "posY": 405,
+    "neighbors": "460",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2233",
+    "posX": 85,
+    "posY": 434,
+    "neighbors": "461",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200203",
+    "posX": 140,
+    "posY": 504,
+    "neighbors": "464",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2206",
+    "posX": 240,
+    "posY": 483,
+    "neighbors": "463",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200007",
+    "posX": 193,
+    "posY": 601,
+    "neighbors": "465 100007 300007",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2225",
+    "posX": 127,
+    "posY": 619,
+    "neighbors": "467",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2211",
+    "posX": 240,
+    "posY": 642,
+    "neighbors": "468",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2212",
+    "posX": 240,
+    "posY": 735,
+    "neighbors": "470",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2224",
+    "posX": 85,
+    "posY": 691,
+    "neighbors": "469",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2223",
+    "posX": 85,
+    "posY": 771,
+    "neighbors": "471",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2213",
+    "posX": 240,
+    "posY": 852,
+    "neighbors": "472",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2214",
+    "posX": 240,
+    "posY": 972,
+    "neighbors": "474",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2215",
+    "posX": 240,
+    "posY": 1010,
+    "neighbors": "475",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2221",
+    "posX": 85,
+    "posY": 931,
+    "neighbors": "473",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200008",
+    "posX": 80,
+    "posY": 1089,
+    "neighbors": "477 100008 300008",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2216",
+    "posX": 240,
+    "posY": 1051,
+    "neighbors": "476",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2219",
+    "posX": 85,
+    "posY": 1130,
+    "neighbors": "478",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2218",
+    "posX": 85,
+    "posY": 1208,
+    "neighbors": "479",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2217",
+    "posX": 240,
+    "posY": 1208,
+    "neighbors": "479",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200101",
+    "posX": 85,
+    "posY": 1265,
+    "neighbors": "480",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2146",
+    "posX": 240,
+    "posY": 1302,
+    "neighbors": "481",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2147",
+    "posX": 240,
+    "posY": 1382,
+    "neighbors": "482",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200304",
+    "posX": 124,
+    "posY": 1385,
+    "neighbors": "484 100304 300304 400304",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2137",
+    "posX": 82,
+    "posY": 1418,
+    "neighbors": "484",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200204",
+    "posX": 144,
+    "posY": 1481,
+    "neighbors": "486",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2148",
+    "posX": 240,
+    "posY": 1461,
+    "neighbors": "485",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200009",
+    "posX": 240,
+    "posY": 1543,
+    "neighbors": "487 100009 300009",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2102",
+    "posX": 240,
+    "posY": 1619,
+    "neighbors": "490",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200305",
+    "posX": 119,
+    "posY": 1621,
+    "neighbors": "488 100305 300305 400305",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2130",
+    "posX": 85,
+    "posY": 1653,
+    "neighbors": "491",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2129",
+    "posX": 85,
+    "posY": 1696,
+    "neighbors": "492",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2103",
+    "posX": 240,
+    "posY": 1707,
+    "neighbors": "493",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200402",
+    "posX": 198,
+    "posY": 1734,
+    "neighbors": "496",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200010",
+    "posX": 212,
+    "posY": 1801,
+    "neighbors": "497 100010 300010",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2128",
+    "posX": 85,
+    "posY": 1743,
+    "neighbors": "494",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2127",
+    "posX": 247,
+    "posY": 1800,
+    "neighbors": "498",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2125",
+    "posX": 301,
+    "posY": 1800,
+    "neighbors": "500",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2110",
+    "posX": 301,
+    "posY": 1709,
+    "neighbors": "499",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2112",
+    "posX": 379,
+    "posY": 1709,
+    "neighbors": "501",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2113",
+    "posX": 420,
+    "posY": 1709,
+    "neighbors": "502",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200205",
+    "posX": 482,
+    "posY": 1744,
+    "neighbors": "504",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200306",
+    "posX": 542,
+    "posY": 1696,
+    "neighbors": "506 100306 300306 400306",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200011",
+    "posX": 577,
+    "posY": 1688,
+    "neighbors": "508 100011 300011",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2124",
+    "posX": 362,
+    "posY": 1806,
+    "neighbors": "500",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2123",
+    "posX": 420,
+    "posY": 1800,
+    "neighbors": "502",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2122",
+    "posX": 455,
+    "posY": 1800,
+    "neighbors": "503",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2121",
+    "posX": 501,
+    "posY": 1800,
+    "neighbors": "505",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2120",
+    "posX": 542,
+    "posY": 1800,
+    "neighbors": "506",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2402",
+    "posX": 688,
+    "posY": 1800,
+    "neighbors": "510",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2414",
+    "posX": 713,
+    "posY": 1708,
+    "neighbors": "512",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2413",
+    "posX": 747,
+    "posY": 1678,
+    "neighbors": "513",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2412",
+    "posX": 797,
+    "posY": 1635,
+    "neighbors": "514",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2411",
+    "posX": 831,
+    "posY": 1599,
+    "neighbors": "515",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2410",
+    "posX": 854,
+    "posY": 1577,
+    "neighbors": "516",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2403",
+    "posX": 775,
+    "posY": 1805,
+    "neighbors": "511",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2404",
+    "posX": 872,
+    "posY": 1714,
+    "neighbors": "514",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2405",
+    "posX": 965,
+    "posY": 1623,
+    "neighbors": "517",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "200012",
+    "posX": 906,
+    "posY": 1486,
+    "neighbors": "518 300012",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2406",
+    "posX": 1057,
+    "posY": 1531,
+    "neighbors": "519",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "2407",
+    "posX": 1163,
+    "posY": 1428,
+    "neighbors": "520",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "394",
+    "posX": 1398,
+    "posY": 1104,
+    "neighbors": "520 2417 395",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "395",
+    "posX": 1493,
+    "posY": 1008,
+    "neighbors": "394 2418 396",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "396",
+    "posX": 1581,
+    "posY": 919,
+    "neighbors": "395 397 2419 398",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "397",
+    "posX": 1528,
+    "posY": 864,
+    "neighbors": "396 200000",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "398",
+    "posX": 1616,
+    "posY": 886,
+    "neighbors": "396 2428 399",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "399",
+    "posX": 1639,
+    "posY": 864,
+    "neighbors": "2427 398 400",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "400",
+    "posX": 1676,
+    "posY": 827,
+    "neighbors": "399 2420 2426 401",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "401",
+    "posX": 1720,
+    "posY": 783,
+    "neighbors": "400 2425 402",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "402",
+    "posX": 1752,
+    "posY": 751,
+    "neighbors": "401 2424 403",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "403",
+    "posX": 1769,
+    "posY": 731,
+    "neighbors": "402 404",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "404",
+    "posX": 1769,
+    "posY": 688,
+    "neighbors": "403 2422 405",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "405",
+    "posX": 1769,
+    "posY": 644,
+    "neighbors": "2322 404 406 407",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "406",
+    "posX": 1690,
+    "posY": 644,
+    "neighbors": "200001 405",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "407",
+    "posX": 1769,
+    "posY": 539,
+    "neighbors": "405 200300 408",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "408",
+    "posX": 1769,
+    "posY": 495,
+    "neighbors": "407 2323 409",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "409",
+    "posX": 1769,
+    "posY": 481,
+    "neighbors": "408 200200 410",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "410",
+    "posX": 1769,
+    "posY": 416,
+    "neighbors": "409 2314 2324 411",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "411",
+    "posX": 1769,
+    "posY": 382,
+    "neighbors": "410 2325 412",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "412",
+    "posX": 1769,
+    "posY": 377,
+    "neighbors": "411 2313 413",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "413",
+    "posX": 1769,
+    "posY": 330,
+    "neighbors": "412 2326 414",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "414",
+    "posX": 1769,
+    "posY": 301,
+    "neighbors": "413 2311 415",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "415",
+    "posX": 1769,
+    "posY": 257,
+    "neighbors": "414 2327 416",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "416",
+    "posX": 1769,
+    "posY": 208,
+    "neighbors": "415 200002 417",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "417",
+    "posX": 1769,
+    "posY": 197,
+    "neighbors": "416 200400 418",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "418",
+    "posX": 1769,
+    "posY": 163,
+    "neighbors": "417 419",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "419",
+    "posX": 1754,
+    "posY": 163,
+    "neighbors": "418 2328 420",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "420",
+    "posX": 1695,
+    "posY": 163,
+    "neighbors": "419 2329 421",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "421",
+    "posX": 1652,
+    "posY": 163,
+    "neighbors": "420 2304 422",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "422",
+    "posX": 1615,
+    "posY": 163,
+    "neighbors": "2303 421 423",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "423",
+    "posX": 1574,
+    "posY": 163,
+    "neighbors": "422 424 2302 425",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "424",
+    "posX": 1574,
+    "posY": 116,
+    "neighbors": "423 200301",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "425",
+    "posX": 1535,
+    "posY": 163,
+    "neighbors": "200003 423 426",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "426",
+    "posX": 1482,
+    "posY": 163,
+    "neighbors": "425 200201 427",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "427",
+    "posX": 1423,
+    "posY": 163,
+    "neighbors": "426 428 2348 429",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "428",
+    "posX": 1423,
+    "posY": 116,
+    "neighbors": "427 200302",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "429",
+    "posX": 1343,
+    "posY": 163,
+    "neighbors": "427 2347 430",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "430",
+    "posX": 1302,
+    "posY": 163,
+    "neighbors": "2346 429 431",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "431",
+    "posX": 1265,
+    "posY": 163,
+    "neighbors": "430 200100 432",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "432",
+    "posX": 1206,
+    "posY": 163,
+    "neighbors": "431 2259 433",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "433",
+    "posX": 1164,
+    "posY": 163,
+    "neighbors": "432 2260 434",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "434",
+    "posX": 1130,
+    "posY": 163,
+    "neighbors": "433 435 436",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "435",
+    "posX": 1130,
+    "posY": 80,
+    "neighbors": "434 200004",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "436",
+    "posX": 1086,
+    "posY": 163,
+    "neighbors": "434 2261 437",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "437",
+    "posX": 1048,
+    "posY": 163,
+    "neighbors": "436 2257 438",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "438",
+    "posX": 1007,
+    "posY": 163,
+    "neighbors": "437 2262 439",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "439",
+    "posX": 960,
+    "posY": 163,
+    "neighbors": "438 2256 440",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "440",
+    "posX": 890,
+    "posY": 163,
+    "neighbors": "439 2263 441",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "441",
+    "posX": 850,
+    "posY": 163,
+    "neighbors": "440 2254 2264 442",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "442",
+    "posX": 811,
+    "posY": 163,
+    "neighbors": "441 2253 443",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "443",
+    "posX": 772,
+    "posY": 163,
+    "neighbors": "442 2265 444",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "444",
+    "posX": 734,
+    "posY": 163,
+    "neighbors": "443 2252 445",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "445",
+    "posX": 651,
+    "posY": 163,
+    "neighbors": "444 2251 446",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "446",
+    "posX": 640,
+    "posY": 163,
+    "neighbors": "445 2266 447",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "447",
+    "posX": 601,
+    "posY": 163,
+    "neighbors": "446 200005 448",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "448",
+    "posX": 521,
+    "posY": 163,
+    "neighbors": "447 2269 449",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "449",
+    "posX": 505,
+    "posY": 163,
+    "neighbors": "448 200202 450",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "450",
+    "posX": 450,
+    "posY": 163,
+    "neighbors": "200401 451 449",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "451",
+    "posX": 443,
+    "posY": 163,
+    "neighbors": "450 2270 452",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "452",
+    "posX": 406,
+    "posY": 163,
+    "neighbors": "451 2242 453",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "453",
+    "posX": 367,
+    "posY": 163,
+    "neighbors": "452 2271 454",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "454",
+    "posX": 327,
+    "posY": 163,
+    "neighbors": "2272 453 2241 455",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "455",
+    "posX": 242,
+    "posY": 163,
+    "neighbors": "454 2240 458",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "456",
+    "posX": 119,
+    "posY": 208,
+    "neighbors": "457 200303",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "457",
+    "posX": 163,
+    "posY": 208,
+    "neighbors": "458 456 459 200006",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "458",
+    "posX": 207,
+    "posY": 163,
+    "neighbors": "455 200006 457",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "459",
+    "posX": 163,
+    "posY": 325,
+    "neighbors": "457 2235 2203 460",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "460",
+    "posX": 163,
+    "posY": 405,
+    "neighbors": "2234 2204 459 461",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "461",
+    "posX": 163,
+    "posY": 434,
+    "neighbors": "460 2233 462",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "462",
+    "posX": 163,
+    "posY": 444,
+    "neighbors": "461 2205 463",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "463",
+    "posX": 163,
+    "posY": 483,
+    "neighbors": "462 2206 464",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "464",
+    "posX": 163,
+    "posY": 504,
+    "neighbors": "463 200203 466",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "465",
+    "posX": 163,
+    "posY": 601,
+    "neighbors": "466 200007 468",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "466",
+    "posX": 163,
+    "posY": 563,
+    "neighbors": "464 467 465",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "467",
+    "posX": 127,
+    "posY": 563,
+    "neighbors": "466 2225",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "468",
+    "posX": 163,
+    "posY": 642,
+    "neighbors": "465 2211 469",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "469",
+    "posX": 163,
+    "posY": 691,
+    "neighbors": "468 2224 470",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "470",
+    "posX": 163,
+    "posY": 735,
+    "neighbors": "469 2212 471",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "471",
+    "posX": 163,
+    "posY": 771,
+    "neighbors": "470 2223 472",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "472",
+    "posX": 163,
+    "posY": 852,
+    "neighbors": "471 2213 473",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "473",
+    "posX": 163,
+    "posY": 931,
+    "neighbors": "472 2221 474",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "474",
+    "posX": 163,
+    "posY": 972,
+    "neighbors": "473 2214 475",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "475",
+    "posX": 163,
+    "posY": 1010,
+    "neighbors": "474 2215 476",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "476",
+    "posX": 163,
+    "posY": 1051,
+    "neighbors": "475 477 2216 478",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "477",
+    "posX": 80,
+    "posY": 1051,
+    "neighbors": "476 200008",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "478",
+    "posX": 163,
+    "posY": 1130,
+    "neighbors": "476 2219 479",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "479",
+    "posX": 163,
+    "posY": 1208,
+    "neighbors": "478 2218 2217 480",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "480",
+    "posX": 163,
+    "posY": 1265,
+    "neighbors": "479 200101 481",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "481",
+    "posX": 163,
+    "posY": 1302,
+    "neighbors": "480 2146 482",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "482",
+    "posX": 163,
+    "posY": 1382,
+    "neighbors": "481 2147 483",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "483",
+    "posX": 163,
+    "posY": 1418,
+    "neighbors": "482 484 485",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "484",
+    "posX": 124,
+    "posY": 1418,
+    "neighbors": "483 200304 2137 2137/2138 2138",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "485",
+    "posX": 163,
+    "posY": 1461,
+    "neighbors": "483 2148 486",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "486",
+    "posX": 163,
+    "posY": 1481,
+    "neighbors": "485 200204 487",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "487",
+    "posX": 163,
+    "posY": 1543,
+    "neighbors": "486 200009 489 488",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "488",
+    "posX": 119,
+    "posY": 1583,
+    "neighbors": "489 200305 487",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "489",
+    "posX": 163,
+    "posY": 1583,
+    "neighbors": "487 488 490",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "490",
+    "posX": 163,
+    "posY": 1619,
+    "neighbors": "489 2102 491",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "491",
+    "posX": 163,
+    "posY": 1653,
+    "neighbors": "490 2130 492",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "492",
+    "posX": 163,
+    "posY": 1696,
+    "neighbors": "491 2129 493",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "493",
+    "posX": 163,
+    "posY": 1707,
+    "neighbors": "492 2103 494",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "494",
+    "posX": 163,
+    "posY": 1743,
+    "neighbors": "493 2128 495",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "495",
+    "posX": 163,
+    "posY": 1771,
+    "neighbors": "494 496",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "496",
+    "posX": 198,
+    "posY": 1771,
+    "neighbors": "495 200402 497",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "497",
+    "posX": 212,
+    "posY": 1771,
+    "neighbors": "496 200010 498",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "498",
+    "posX": 247,
+    "posY": 1771,
+    "neighbors": "497 2127 499",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "499",
+    "posX": 301,
+    "posY": 1771,
+    "neighbors": "498 2110 500 501",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "500",
+    "posX": 301,
+    "posY": 1806,
+    "neighbors": "499 2125 2124",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "501",
+    "posX": 379,
+    "posY": 1771,
+    "neighbors": "499 2112 502",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "502",
+    "posX": 420,
+    "posY": 1771,
+    "neighbors": "2113 501 2123 503",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "503",
+    "posX": 455,
+    "posY": 1771,
+    "neighbors": "2122 502 504",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "504",
+    "posX": 482,
+    "posY": 1771,
+    "neighbors": "503 200205 505",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "505",
+    "posX": 501,
+    "posY": 1771,
+    "neighbors": "504 2121 506",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "506",
+    "posX": 542,
+    "posY": 1771,
+    "neighbors": "505 2120 200306 507",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "507",
+    "posX": 614,
+    "posY": 1771,
+    "neighbors": "506 508 510",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "508",
+    "posX": 614,
+    "posY": 1688,
+    "neighbors": "507 200011",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "510",
+    "posX": 688,
+    "posY": 1771,
+    "neighbors": "2402 511 507",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "511",
+    "posX": 736,
+    "posY": 1763,
+    "neighbors": "510 512 2403",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "512",
+    "posX": 752,
+    "posY": 1747,
+    "neighbors": "511 2414 513",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "513",
+    "posX": 783,
+    "posY": 1716,
+    "neighbors": "2413 512 514",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "514",
+    "posX": 829,
+    "posY": 1670,
+    "neighbors": "513 2412 2404 515",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "515",
+    "posX": 865,
+    "posY": 1634,
+    "neighbors": "514 2411 516",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "516",
+    "posX": 886,
+    "posY": 1611,
+    "neighbors": "515 2410 517",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "517",
+    "posX": 921,
+    "posY": 1577,
+    "neighbors": "516 2405 518 519",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "518",
+    "posX": 869,
+    "posY": 1522,
+    "neighbors": "517 200012",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "519",
+    "posX": 1012,
+    "posY": 1487,
+    "neighbors": "517 2406 520",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "520",
+    "posX": 1115,
+    "posY": 1384,
+    "neighbors": "394 519 2407",
+    "type": "waypoint",
+    "floor": 2
+  },
+  {
+    "id": "2138",
+    "posX": 85,
+    "posY": 1418,
+    "neighbors": "484",
+    "type": "endpoint",
+    "floor": 2
+  },
+  {
+    "id": "300000",
+    "posX": 1532,
+    "posY": 933,
+    "neighbors": "278 400000 200000",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3305",
+    "posX": 1543,
+    "posY": 871,
+    "neighbors": "276",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3304",
+    "posX": 1627,
+    "posY": 974,
+    "neighbors": "277",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3307",
+    "posX": 1678,
+    "posY": 834,
+    "neighbors": "274 273",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3310",
+    "posX": 1690,
+    "posY": 617,
+    "neighbors": "270",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3312",
+    "posX": 1845,
+    "posY": 649,
+    "neighbors": "271",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300001",
+    "posX": 1736,
+    "posY": 577,
+    "neighbors": "269 400001 200001",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300300",
+    "posX": 1690,
+    "posY": 540,
+    "neighbors": "268 400300 100300 200300",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300200",
+    "posX": 1745,
+    "posY": 481,
+    "neighbors": "266",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3313",
+    "posX": 1845,
+    "posY": 498,
+    "neighbors": "267",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3314",
+    "posX": 1845,
+    "posY": 422,
+    "neighbors": "265",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3353",
+    "posX": 1690,
+    "posY": 379,
+    "neighbors": "264",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3315",
+    "posX": 1845,
+    "posY": 336,
+    "neighbors": "263",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3351",
+    "posX": 1690,
+    "posY": 302,
+    "neighbors": "262",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3316",
+    "posX": 1845,
+    "posY": 302,
+    "neighbors": "262",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3317",
+    "posX": 1845,
+    "posY": 253,
+    "neighbors": "261",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300002",
+    "posX": 1803,
+    "posY": 209,
+    "neighbors": "260 400003 200002",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300400",
+    "posX": 1735,
+    "posY": 198,
+    "neighbors": "259",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3318",
+    "posX": 1752,
+    "posY": 105,
+    "neighbors": "257",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3319",
+    "posX": 1690,
+    "posY": 105,
+    "neighbors": "256",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3343",
+    "posX": 1659,
+    "posY": 198,
+    "neighbors": "255",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3342",
+    "posX": 1620,
+    "posY": 198,
+    "neighbors": "252",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300003",
+    "posX": 1544,
+    "posY": 198,
+    "neighbors": "251 400004 200003",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300201",
+    "posX": 1481,
+    "posY": 144,
+    "neighbors": "250",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300301",
+    "posX": 1619,
+    "posY": 117,
+    "neighbors": "254 400301 100301 200301",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3341",
+    "posX": 1461,
+    "posY": 198,
+    "neighbors": "249",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3340",
+    "posX": 1423,
+    "posY": 198,
+    "neighbors": "247",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3339",
+    "posX": 1385,
+    "posY": 198,
+    "neighbors": "246",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3338",
+    "posX": 1345,
+    "posY": 198,
+    "neighbors": "245",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3337",
+    "posX": 1304,
+    "posY": 198,
+    "neighbors": "244",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300302",
+    "posX": 1379,
+    "posY": 116,
+    "neighbors": "248 400302 100302 200302",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300100",
+    "posX": 1266,
+    "posY": 105,
+    "neighbors": "243",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3259",
+    "posX": 1209,
+    "posY": 198,
+    "neighbors": "242",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3260",
+    "posX": 1170,
+    "posY": 198,
+    "neighbors": "241",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3261",
+    "posX": 1091,
+    "posY": 198,
+    "neighbors": "240",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300004",
+    "posX": 1091,
+    "posY": 129,
+    "neighbors": "240 400005 200004",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3258",
+    "posX": 1209,
+    "posY": 105,
+    "neighbors": "242",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3256",
+    "posX": 1051,
+    "posY": 105,
+    "neighbors": "239",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3255",
+    "posX": 964,
+    "posY": 105,
+    "neighbors": "237",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3262",
+    "posX": 1011,
+    "posY": 198,
+    "neighbors": "238",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3263",
+    "posX": 895,
+    "posY": 198,
+    "neighbors": "236",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3264",
+    "posX": 855,
+    "posY": 198,
+    "neighbors": "235",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3265",
+    "posX": 774,
+    "posY": 198,
+    "neighbors": "233",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3253",
+    "posX": 855,
+    "posY": 105,
+    "neighbors": "235",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3252",
+    "posX": 813,
+    "posY": 105,
+    "neighbors": "234",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3251",
+    "posX": 736,
+    "posY": 105,
+    "neighbors": "232",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3266",
+    "posX": 642,
+    "posY": 198,
+    "neighbors": "230",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300005",
+    "posX": 605,
+    "posY": 198,
+    "neighbors": "229 400006 200005",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3250",
+    "posX": 653,
+    "posY": 105,
+    "neighbors": "231",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3249",
+    "posX": 605,
+    "posY": 105,
+    "neighbors": "229",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300202",
+    "posX": 505,
+    "posY": 140,
+    "neighbors": "227",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300401",
+    "posX": 452,
+    "posY": 120,
+    "neighbors": "225",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3268",
+    "posX": 523,
+    "posY": 198,
+    "neighbors": "228",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3269",
+    "posX": 484,
+    "posY": 198,
+    "neighbors": "226",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3270",
+    "posX": 444,
+    "posY": 198,
+    "neighbors": "224",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3271",
+    "posX": 408,
+    "posY": 198,
+    "neighbors": "223",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3272",
+    "posX": 367,
+    "posY": 205,
+    "neighbors": "223",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3273",
+    "posX": 327,
+    "posY": 198,
+    "neighbors": "220",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3239",
+    "posX": 408,
+    "posY": 105,
+    "neighbors": "222",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3238",
+    "posX": 327,
+    "posY": 105,
+    "neighbors": "220",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3237",
+    "posX": 213,
+    "posY": 105,
+    "neighbors": "221",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300006",
+    "posX": 153,
+    "posY": 152,
+    "neighbors": "221 218 400007 200006",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300303",
+    "posX": 120,
+    "posY": 248,
+    "neighbors": "219 500300 400303 100303 200303",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3234",
+    "posX": 85,
+    "posY": 297,
+    "neighbors": "217",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3233",
+    "posX": 85,
+    "posY": 328,
+    "neighbors": "216",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3203",
+    "posX": 235,
+    "posY": 328,
+    "neighbors": "216",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3204",
+    "posX": 235,
+    "posY": 364,
+    "neighbors": "215",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3205",
+    "posX": 235,
+    "posY": 409,
+    "neighbors": "214",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3206",
+    "posX": 235,
+    "posY": 446,
+    "neighbors": "213",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300203",
+    "posX": 140,
+    "posY": 505,
+    "neighbors": "211",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3231",
+    "posX": 85,
+    "posY": 446,
+    "neighbors": "213",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3232",
+    "posX": 85,
+    "posY": 409,
+    "neighbors": "214",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3207",
+    "posX": 235,
+    "posY": 485,
+    "neighbors": "212",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300007",
+    "posX": 194,
+    "posY": 603,
+    "neighbors": "210 400008 200007",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3210",
+    "posX": 235,
+    "posY": 643,
+    "neighbors": "209",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3223",
+    "posX": 85,
+    "posY": 691,
+    "neighbors": "208",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3211",
+    "posX": 235,
+    "posY": 736,
+    "neighbors": "207",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3222",
+    "posX": 85,
+    "posY": 774,
+    "neighbors": "206",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3220",
+    "posX": 85,
+    "posY": 934,
+    "neighbors": "204",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3212",
+    "posX": 235,
+    "posY": 851,
+    "neighbors": "205",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3213",
+    "posX": 235,
+    "posY": 973,
+    "neighbors": "203",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3214",
+    "posX": 235,
+    "posY": 1017,
+    "neighbors": "202",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300008",
+    "posX": 129,
+    "posY": 1091,
+    "neighbors": "201 400009 200008",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3215",
+    "posX": 235,
+    "posY": 1131,
+    "neighbors": "200",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3218",
+    "posX": 85,
+    "posY": 1131,
+    "neighbors": "200",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3216",
+    "posX": 235,
+    "posY": 1209,
+    "neighbors": "199",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3217",
+    "posX": 85,
+    "posY": 1209,
+    "neighbors": "199",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300101",
+    "posX": 85,
+    "posY": 1266,
+    "neighbors": "198",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3140",
+    "posX": 235,
+    "posY": 1304,
+    "neighbors": "197",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3141",
+    "posX": 235,
+    "posY": 1384,
+    "neighbors": "196",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300304",
+    "posX": 124,
+    "posY": 1385,
+    "neighbors": "195 400304 100304 200304",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300204",
+    "posX": 144,
+    "posY": 1481,
+    "neighbors": "192",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3142",
+    "posX": 235,
+    "posY": 1462,
+    "neighbors": "193",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300009",
+    "posX": 235,
+    "posY": 1543,
+    "neighbors": "191 400010 200009",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300305",
+    "posX": 119,
+    "posY": 1623,
+    "neighbors": "190 400305 100305 200305",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3143",
+    "posX": 235,
+    "posY": 1581,
+    "neighbors": "189",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3144",
+    "posX": 235,
+    "posY": 1708,
+    "neighbors": "187",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3123",
+    "posX": 85,
+    "posY": 1700,
+    "neighbors": "188",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300402",
+    "posX": 198,
+    "posY": 1734,
+    "neighbors": "184",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3122",
+    "posX": 85,
+    "posY": 1745,
+    "neighbors": "186",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300010",
+    "posX": 210,
+    "posY": 1804,
+    "neighbors": "183 400011 200010",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3120",
+    "posX": 241,
+    "posY": 1800,
+    "neighbors": "182",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3119",
+    "posX": 302,
+    "posY": 1800,
+    "neighbors": "181",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3118",
+    "posX": 343,
+    "posY": 1800,
+    "neighbors": "180",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3117",
+    "posX": 378,
+    "posY": 1800,
+    "neighbors": "179",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3151",
+    "posX": 302,
+    "posY": 1708,
+    "neighbors": "181",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3153",
+    "posX": 420,
+    "posY": 1708,
+    "neighbors": "178",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300205",
+    "posX": 482,
+    "posY": 1744,
+    "neighbors": "176",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3116",
+    "posX": 420,
+    "posY": 1800,
+    "neighbors": "178",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3115",
+    "posX": 455,
+    "posY": 1800,
+    "neighbors": "177",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3114",
+    "posX": 501,
+    "posY": 1800,
+    "neighbors": "175",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300306",
+    "posX": 540,
+    "posY": 1693,
+    "neighbors": "174 400306 100306 200306",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3113",
+    "posX": 540,
+    "posY": 1800,
+    "neighbors": "174",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300011",
+    "posX": 576,
+    "posY": 1735,
+    "neighbors": "173 400012 200011",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3110",
+    "posX": 615,
+    "posY": 1708,
+    "neighbors": "172",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3107",
+    "posX": 842,
+    "posY": 1676,
+    "neighbors": "170 169",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3103",
+    "posX": 979,
+    "posY": 1627,
+    "neighbors": "167",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "3105",
+    "posX": 875,
+    "posY": 1538,
+    "neighbors": "168",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "300012",
+    "posX": 932,
+    "posY": 1531,
+    "neighbors": "166 400013 200012",
+    "type": "endpoint",
+    "floor": 3
+  },
+  {
+    "id": "166",
+    "posX": 953,
+    "posY": 1553,
+    "neighbors": "167 300012",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "167",
+    "posX": 931,
+    "posY": 1575,
+    "neighbors": "168 3103 166",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "168",
+    "posX": 920,
+    "posY": 1586,
+    "neighbors": "169 3105 167",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "169",
+    "posX": 905,
+    "posY": 1606,
+    "neighbors": "3107 168 170",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "170",
+    "posX": 734,
+    "posY": 1710,
+    "neighbors": "171 3107 169",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "171",
+    "posX": 734,
+    "posY": 1770,
+    "neighbors": "172 170",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "172",
+    "posX": 615,
+    "posY": 1770,
+    "neighbors": "173 3110 171",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "173",
+    "posX": 576,
+    "posY": 1770,
+    "neighbors": "174 300011 172",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "174",
+    "posX": 540,
+    "posY": 1770,
+    "neighbors": "175 300306 3113 173",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "175",
+    "posX": 501,
+    "posY": 1770,
+    "neighbors": "176 3114 174",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "176",
+    "posX": 482,
+    "posY": 1770,
+    "neighbors": "177 300205 175",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "177",
+    "posX": 455,
+    "posY": 1770,
+    "neighbors": "178 3115 176",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "178",
+    "posX": 420,
+    "posY": 1770,
+    "neighbors": "179 3153 3116 177",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "179",
+    "posX": 378,
+    "posY": 1770,
+    "neighbors": "180 3117 178",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "180",
+    "posX": 343,
+    "posY": 1770,
+    "neighbors": "3118 181 179",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "181",
+    "posX": 302,
+    "posY": 1770,
+    "neighbors": "182 3151 3119 180",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "182",
+    "posX": 241,
+    "posY": 1770,
+    "neighbors": "183 3120 181",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "183",
+    "posX": 210,
+    "posY": 1770,
+    "neighbors": "184 300010 182",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "184",
+    "posX": 198,
+    "posY": 1770,
+    "neighbors": "185 300402 183",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "185",
+    "posX": 163,
+    "posY": 1770,
+    "neighbors": "186 184",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "186",
+    "posX": 163,
+    "posY": 1745,
+    "neighbors": "187 3122 185",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "187",
+    "posX": 163,
+    "posY": 1708,
+    "neighbors": "188 3144 186",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "188",
+    "posX": 163,
+    "posY": 1700,
+    "neighbors": "189 3123 187",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "189",
+    "posX": 163,
+    "posY": 1581,
+    "neighbors": "191 190 3143 188",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "190",
+    "posX": 119,
+    "posY": 1581,
+    "neighbors": "189 300305 191",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "191",
+    "posX": 163,
+    "posY": 1543,
+    "neighbors": "192 300009 189 190",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "192",
+    "posX": 163,
+    "posY": 1481,
+    "neighbors": "193 300204 191",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "193",
+    "posX": 163,
+    "posY": 1462,
+    "neighbors": "194 3142 192",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "194",
+    "posX": 163,
+    "posY": 1421,
+    "neighbors": "196 195 193",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "195",
+    "posX": 124,
+    "posY": 1421,
+    "neighbors": "194 300304",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "196",
+    "posX": 163,
+    "posY": 1384,
+    "neighbors": "197 3141 194",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "197",
+    "posX": 163,
+    "posY": 1304,
+    "neighbors": "198 3140 196",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "198",
+    "posX": 163,
+    "posY": 1266,
+    "neighbors": "199 300101 197",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "199",
+    "posX": 163,
+    "posY": 1209,
+    "neighbors": "200 3217 3216 198",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "200",
+    "posX": 163,
+    "posY": 1131,
+    "neighbors": "3218 201 3215 199",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "201",
+    "posX": 163,
+    "posY": 1091,
+    "neighbors": "202 300008 200",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "202",
+    "posX": 163,
+    "posY": 1017,
+    "neighbors": "203 3214 201",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "203",
+    "posX": 163,
+    "posY": 973,
+    "neighbors": "204 3213 202",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "204",
+    "posX": 163,
+    "posY": 934,
+    "neighbors": "205 3220 203",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "205",
+    "posX": 163,
+    "posY": 851,
+    "neighbors": "206 3212 204",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "206",
+    "posX": 163,
+    "posY": 774,
+    "neighbors": "207 3222 205",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "207",
+    "posX": 163,
+    "posY": 736,
+    "neighbors": "208 3211 206",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "208",
+    "posX": 163,
+    "posY": 691,
+    "neighbors": "209 3223 207",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "209",
+    "posX": 163,
+    "posY": 643,
+    "neighbors": "210 3210 208",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "210",
+    "posX": 163,
+    "posY": 603,
+    "neighbors": "211 300007 209",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "211",
+    "posX": 163,
+    "posY": 505,
+    "neighbors": "212 300203 210",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "212",
+    "posX": 163,
+    "posY": 485,
+    "neighbors": "213 3207 211",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "213",
+    "posX": 163,
+    "posY": 446,
+    "neighbors": "214 3231 3206 212",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "214",
+    "posX": 163,
+    "posY": 409,
+    "neighbors": "215 3232 3205 213",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "215",
+    "posX": 163,
+    "posY": 364,
+    "neighbors": "216 3204 214",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "216",
+    "posX": 163,
+    "posY": 328,
+    "neighbors": "217 3233 3203 215",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "217",
+    "posX": 163,
+    "posY": 297,
+    "neighbors": "218 3234 216",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "218",
+    "posX": 163,
+    "posY": 211,
+    "neighbors": "300006 221 219 217",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "219",
+    "posX": 120,
+    "posY": 211,
+    "neighbors": "218 300303",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "220",
+    "posX": 327,
+    "posY": 163,
+    "neighbors": "3273 222 3238 221",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "221",
+    "posX": 213,
+    "posY": 163,
+    "neighbors": "220 3237 300006 218",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "222",
+    "posX": 408,
+    "posY": 163,
+    "neighbors": "224 3239 223 220",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "223",
+    "posX": 408,
+    "posY": 205,
+    "neighbors": "222 3272 3271",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "224",
+    "posX": 444,
+    "posY": 163,
+    "neighbors": "3270 225 222",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "225",
+    "posX": 452,
+    "posY": 163,
+    "neighbors": "224 300401 226",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "226",
+    "posX": 484,
+    "posY": 163,
+    "neighbors": "227 3269 225",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "227",
+    "posX": 505,
+    "posY": 163,
+    "neighbors": "228 300202 226",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "228",
+    "posX": 523,
+    "posY": 163,
+    "neighbors": "229 3268 227",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "229",
+    "posX": 605,
+    "posY": 163,
+    "neighbors": "230 300005 3249 228",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "230",
+    "posX": 642,
+    "posY": 163,
+    "neighbors": "231 3266 229",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "231",
+    "posX": 653,
+    "posY": 163,
+    "neighbors": "232 3250 230",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "232",
+    "posX": 736,
+    "posY": 163,
+    "neighbors": "233 3251 231",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "233",
+    "posX": 774,
+    "posY": 163,
+    "neighbors": "234 3265 232",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "234",
+    "posX": 813,
+    "posY": 163,
+    "neighbors": "3252 235 233",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "235",
+    "posX": 855,
+    "posY": 163,
+    "neighbors": "236 3264 3253 234",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "236",
+    "posX": 895,
+    "posY": 163,
+    "neighbors": "237 3263 235",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "237",
+    "posX": 964,
+    "posY": 163,
+    "neighbors": "238 3255 236",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "238",
+    "posX": 1011,
+    "posY": 163,
+    "neighbors": "239 3262 237",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "239",
+    "posX": 1051,
+    "posY": 163,
+    "neighbors": "240 3256 238",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "240",
+    "posX": 1091,
+    "posY": 163,
+    "neighbors": "241 300004 3261 239",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "241",
+    "posX": 1170,
+    "posY": 163,
+    "neighbors": "242 3260 240",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "242",
+    "posX": 1209,
+    "posY": 163,
+    "neighbors": "243 3259 3258 241",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "243",
+    "posX": 1266,
+    "posY": 163,
+    "neighbors": "244 300100 242",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "244",
+    "posX": 1304,
+    "posY": 163,
+    "neighbors": "245 3337 243",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "245",
+    "posX": 1345,
+    "posY": 163,
+    "neighbors": "246 3338 244",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "246",
+    "posX": 1385,
+    "posY": 163,
+    "neighbors": "247 3339 245",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "247",
+    "posX": 1423,
+    "posY": 163,
+    "neighbors": "3340 249 248 246",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "248",
+    "posX": 1423,
+    "posY": 116,
+    "neighbors": "247 300302",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "249",
+    "posX": 1461,
+    "posY": 163,
+    "neighbors": "250 3341 247",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "250",
+    "posX": 1481,
+    "posY": 163,
+    "neighbors": "251 300201 249",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "251",
+    "posX": 1544,
+    "posY": 163,
+    "neighbors": "253 300003 250",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "252",
+    "posX": 1620,
+    "posY": 163,
+    "neighbors": "3342 255 253",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "253",
+    "posX": 1563,
+    "posY": 163,
+    "neighbors": "252 254 251",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "254",
+    "posX": 1563,
+    "posY": 117,
+    "neighbors": "253 300301",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "255",
+    "posX": 1659,
+    "posY": 163,
+    "neighbors": "256 3343 252",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "256",
+    "posX": 1700,
+    "posY": 163,
+    "neighbors": "257 3319 255",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "257",
+    "posX": 1752,
+    "posY": 163,
+    "neighbors": "258 3318 256",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "258",
+    "posX": 1769,
+    "posY": 163,
+    "neighbors": "259 257",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "259",
+    "posX": 1769,
+    "posY": 198,
+    "neighbors": "260 300400 258",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "260",
+    "posX": 1769,
+    "posY": 209,
+    "neighbors": "261 300002 259",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "261",
+    "posX": 1769,
+    "posY": 253,
+    "neighbors": "262 3317 260",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "262",
+    "posX": 1769,
+    "posY": 302,
+    "neighbors": "263 3316 3351 261",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "263",
+    "posX": 1769,
+    "posY": 336,
+    "neighbors": "264 3315 262",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "264",
+    "posX": 1769,
+    "posY": 379,
+    "neighbors": "265 3353 263",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "265",
+    "posX": 1769,
+    "posY": 422,
+    "neighbors": "266 3314 264",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "266",
+    "posX": 1769,
+    "posY": 481,
+    "neighbors": "267 300200 265",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "267",
+    "posX": 1769,
+    "posY": 498,
+    "neighbors": "268 3313 266",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "268",
+    "posX": 1769,
+    "posY": 540,
+    "neighbors": "269 300300 267",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "269",
+    "posX": 1769,
+    "posY": 577,
+    "neighbors": "300001 270 268",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "270",
+    "posX": 1769,
+    "posY": 617,
+    "neighbors": "271 3310 269",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "271",
+    "posX": 1769,
+    "posY": 649,
+    "neighbors": "272 3312 270",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "272",
+    "posX": 1769,
+    "posY": 719,
+    "neighbors": "273 271",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "273",
+    "posX": 1709,
+    "posY": 736,
+    "neighbors": "272 3307 274",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "274",
+    "posX": 1606,
+    "posY": 905,
+    "neighbors": "276 3307 273",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "276",
+    "posX": 1590,
+    "posY": 919,
+    "neighbors": "277 3305 274",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "277",
+    "posX": 1580,
+    "posY": 928,
+    "neighbors": "278 3304 276",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "278",
+    "posX": 1554,
+    "posY": 955,
+    "neighbors": "300000 277",
+    "type": "waypoint",
+    "floor": 3
+  },
+  {
+    "id": "001",
+    "posX": 1755,
+    "posY": 163,
+    "neighbors": "002 4316 012",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "002",
+    "posX": 1694,
+    "posY": 163,
+    "neighbors": "001 003 4317",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "003",
+    "posX": 1658,
+    "posY": 163,
+    "neighbors": "002 4340 123",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "4340",
+    "posX": 1658,
+    "posY": 190,
+    "neighbors": "003",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4316",
+    "posX": 1755,
+    "posY": 100,
+    "neighbors": "001",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "004",
+    "posX": 1461,
+    "posY": 163,
+    "neighbors": "007 4337 40002 034",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "005",
+    "posX": 1580,
+    "posY": 163,
+    "neighbors": "006 4338 033 123",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "006",
+    "posX": 1580,
+    "posY": 116,
+    "neighbors": "005 400301",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "4337",
+    "posX": 1461,
+    "posY": 190,
+    "neighbors": "004",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400201",
+    "posX": 1482,
+    "posY": 143,
+    "neighbors": "034",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4336",
+    "posX": 1423,
+    "posY": 190,
+    "neighbors": "007",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4335",
+    "posX": 1342,
+    "posY": 190,
+    "neighbors": "008",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4334",
+    "posX": 1304,
+    "posY": 190,
+    "neighbors": "009",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400100",
+    "posX": 1266,
+    "posY": 100,
+    "neighbors": "010",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4339",
+    "posX": 1621,
+    "posY": 190,
+    "neighbors": "123",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4338",
+    "posX": 1580,
+    "posY": 190,
+    "neighbors": "005",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4317",
+    "posX": 1694,
+    "posY": 100,
+    "neighbors": "002",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "007",
+    "posX": 1423,
+    "posY": 163,
+    "neighbors": "004 008 4336 035",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "008",
+    "posX": 1342,
+    "posY": 163,
+    "neighbors": "009 007 4335",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "009",
+    "posX": 1304,
+    "posY": 163,
+    "neighbors": "008 010 4334",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "010",
+    "posX": 1266,
+    "posY": 163,
+    "neighbors": "009 400100 011",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "011",
+    "posX": 1210,
+    "posY": 163,
+    "neighbors": "010 4257 4256 036",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "400400",
+    "posX": 1734,
+    "posY": 197,
+    "neighbors": "012",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4314",
+    "posX": 1845,
+    "posY": 252,
+    "neighbors": "014",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4313",
+    "posX": 1845,
+    "posY": 335,
+    "neighbors": "016",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4312",
+    "posX": 1845,
+    "posY": 422,
+    "neighbors": "018",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4349",
+    "posX": 1690,
+    "posY": 379,
+    "neighbors": "017",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4311",
+    "posX": 1845,
+    "posY": 500,
+    "neighbors": "020",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400200",
+    "posX": 1745,
+    "posY": 481,
+    "neighbors": "019",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400301",
+    "posX": 1621,
+    "posY": 116,
+    "neighbors": "006 300301 100301 200301",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400302",
+    "posX": 1380,
+    "posY": 117,
+    "neighbors": "035 300302 100302 200302",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400005",
+    "posX": 1091,
+    "posY": 80,
+    "neighbors": "039 500000 300004",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4257",
+    "posX": 1210,
+    "posY": 190,
+    "neighbors": "011",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4258",
+    "posX": 1169,
+    "posY": 190,
+    "neighbors": "036",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4259",
+    "posX": 1090,
+    "posY": 190,
+    "neighbors": "038",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4260",
+    "posX": 1011,
+    "posY": 190,
+    "neighbors": "041",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4254",
+    "posX": 1052,
+    "posY": 100,
+    "neighbors": "040",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4256",
+    "posX": 1210,
+    "posY": 100,
+    "neighbors": "011",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4347",
+    "posX": 1690,
+    "posY": 302,
+    "neighbors": "015",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4253",
+    "posX": 965,
+    "posY": 100,
+    "neighbors": "042",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4251",
+    "posX": 855,
+    "posY": 100,
+    "neighbors": "044",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4250",
+    "posX": 813,
+    "posY": 100,
+    "neighbors": "046",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4249",
+    "posX": 737,
+    "posY": 100,
+    "neighbors": "048",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4248",
+    "posX": 598,
+    "posY": 100,
+    "neighbors": "051",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4261",
+    "posX": 894,
+    "posY": 190,
+    "neighbors": "043",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4262",
+    "posX": 852,
+    "posY": 190,
+    "neighbors": "045",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4263",
+    "posX": 775,
+    "posY": 190,
+    "neighbors": "047",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4264",
+    "posX": 644,
+    "posY": 190,
+    "neighbors": "049",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400006",
+    "posX": 603,
+    "posY": 198,
+    "neighbors": "050 500001 300005",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400004",
+    "posX": 1544,
+    "posY": 190,
+    "neighbors": "033 300003",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400003",
+    "posX": 1803,
+    "posY": 208,
+    "neighbors": "013 300002",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400300",
+    "posX": 1690,
+    "posY": 540,
+    "neighbors": "021 300300 100300 200300",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400001",
+    "posX": 1691,
+    "posY": 577,
+    "neighbors": "026 300001",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4307",
+    "posX": 1733,
+    "posY": 651,
+    "neighbors": "025",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4310",
+    "posX": 1845,
+    "posY": 553,
+    "neighbors": "022",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4308",
+    "posX": 1690,
+    "posY": 693,
+    "neighbors": "029",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4309",
+    "posX": 1856,
+    "posY": 693,
+    "neighbors": "029",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "3307",
+    "posX": 1576,
+    "posY": 873,
+    "neighbors": "032",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400000",
+    "posX": 1521,
+    "posY": 943,
+    "neighbors": "030 300000",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400202",
+    "posX": 505,
+    "posY": 139,
+    "neighbors": "053",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4238",
+    "posX": 406,
+    "posY": 100,
+    "neighbors": "056",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4237",
+    "posX": 291,
+    "posY": 100,
+    "neighbors": "059",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4236",
+    "posX": 243,
+    "posY": 100,
+    "neighbors": "060",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4235",
+    "posX": 190,
+    "posY": 100,
+    "neighbors": "061",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400007",
+    "posX": 155,
+    "posY": 154,
+    "neighbors": "061 062 500002 300006",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4266",
+    "posX": 523,
+    "posY": 190,
+    "neighbors": "052",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4267",
+    "posX": 445,
+    "posY": 190,
+    "neighbors": "055",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4268",
+    "posX": 366,
+    "posY": 190,
+    "neighbors": "057",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4269",
+    "posX": 328,
+    "posY": 190,
+    "neighbors": "058",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400303",
+    "posX": 120,
+    "posY": 250,
+    "neighbors": "063 500300 300303 200303 100303",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4232",
+    "posX": 85,
+    "posY": 297,
+    "neighbors": "064",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4231",
+    "posX": 85,
+    "posY": 328,
+    "neighbors": "065",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4203",
+    "posX": 245,
+    "posY": 328,
+    "neighbors": "065",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4204",
+    "posX": 245,
+    "posY": 408,
+    "neighbors": "066",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4230",
+    "posX": 85,
+    "posY": 408,
+    "neighbors": "066",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4229",
+    "posX": 85,
+    "posY": 443,
+    "neighbors": "067",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4205",
+    "posX": 245,
+    "posY": 523,
+    "neighbors": "069",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400203",
+    "posX": 139,
+    "posY": 503,
+    "neighbors": "068",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400008",
+    "posX": 197,
+    "posY": 603,
+    "neighbors": "070 500003 300007",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4222",
+    "posX": 85,
+    "posY": 609,
+    "neighbors": "071",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4208",
+    "posX": 245,
+    "posY": 643,
+    "neighbors": "072",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4221",
+    "posX": 85,
+    "posY": 692,
+    "neighbors": "073",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4209",
+    "posX": 245,
+    "posY": 735,
+    "neighbors": "074",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4220",
+    "posX": 85,
+    "posY": 772,
+    "neighbors": "075",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4210",
+    "posX": 245,
+    "posY": 852,
+    "neighbors": "076",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4218",
+    "posX": 85,
+    "posY": 931,
+    "neighbors": "077",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4211",
+    "posX": 245,
+    "posY": 971,
+    "neighbors": "078",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4212",
+    "posX": 245,
+    "posY": 1015,
+    "neighbors": "079",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4213",
+    "posX": 245,
+    "posY": 1130,
+    "neighbors": "082",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400009",
+    "posX": 81,
+    "posY": 1090,
+    "neighbors": "081 500004 300008",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4216",
+    "posX": 85,
+    "posY": 1130,
+    "neighbors": "082",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4214",
+    "posX": 245,
+    "posY": 1208,
+    "neighbors": "083",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4215",
+    "posX": 85,
+    "posY": 1208,
+    "neighbors": "083",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400101",
+    "posX": 85,
+    "posY": 1265,
+    "neighbors": "084",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4135",
+    "posX": 245,
+    "posY": 1302,
+    "neighbors": "085",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4136",
+    "posX": 245,
+    "posY": 1338,
+    "neighbors": "086",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4137",
+    "posX": 245,
+    "posY": 1381,
+    "neighbors": "087",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4138",
+    "posX": 245,
+    "posY": 1420,
+    "neighbors": "088",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4139",
+    "posX": 245,
+    "posY": 1460,
+    "neighbors": "090",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400304",
+    "posX": 124,
+    "posY": 1385,
+    "neighbors": "089 300304 100304 200304",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400204",
+    "posX": 144,
+    "posY": 1480,
+    "neighbors": "091",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400010",
+    "posX": 245,
+    "posY": 1541,
+    "neighbors": "093 300009",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4140",
+    "posX": 245,
+    "posY": 1619,
+    "neighbors": "096",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400305",
+    "posX": 119,
+    "posY": 1621,
+    "neighbors": "094 300305 100305 200305",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4119",
+    "posX": 85,
+    "posY": 1654,
+    "neighbors": "097",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4118",
+    "posX": 85,
+    "posY": 1699,
+    "neighbors": "098",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4141",
+    "posX": 245,
+    "posY": 1706,
+    "neighbors": "099",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4117",
+    "posX": 85,
+    "posY": 1744,
+    "neighbors": "100",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400402",
+    "posX": 197,
+    "posY": 1735,
+    "neighbors": "102",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400011",
+    "posX": 190,
+    "posY": 1803,
+    "neighbors": "103 300010",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4148",
+    "posX": 302,
+    "posY": 1705,
+    "neighbors": "105",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4150",
+    "posX": 379,
+    "posY": 1705,
+    "neighbors": "106",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4151",
+    "posX": 423,
+    "posY": 1705,
+    "neighbors": "107",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400205",
+    "posX": 481,
+    "posY": 1746,
+    "neighbors": "111",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400306",
+    "posX": 540,
+    "posY": 1697,
+    "neighbors": "112 300306 100306 2003006",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400012",
+    "posX": 578,
+    "posY": 1688,
+    "neighbors": "115 300011",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4107",
+    "posX": 658,
+    "posY": 1705,
+    "neighbors": "118",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4115",
+    "posX": 242,
+    "posY": 1800,
+    "neighbors": "104",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4114",
+    "posX": 302,
+    "posY": 1800,
+    "neighbors": "105",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4113",
+    "posX": 362,
+    "posY": 1809,
+    "neighbors": "109",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4112",
+    "posX": 420,
+    "posY": 1800,
+    "neighbors": "109",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4111",
+    "posX": 480,
+    "posY": 1809,
+    "neighbors": "109",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4110",
+    "posX": 653,
+    "posY": 1800,
+    "neighbors": "116",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4108",
+    "posX": 691,
+    "posY": 1705,
+    "neighbors": "119",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4109",
+    "posX": 691,
+    "posY": 1800,
+    "neighbors": "119",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "4105",
+    "posX": 727,
+    "posY": 1772,
+    "neighbors": "119",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "400013",
+    "posX": 943,
+    "posY": 1520,
+    "neighbors": "120 300012",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "3107",
+    "posX": 868,
+    "posY": 1576,
+    "neighbors": "122",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "012",
+    "posX": 1770,
+    "posY": 197,
+    "neighbors": "013 400400 001",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "013",
+    "posX": 1770,
+    "posY": 208,
+    "neighbors": "014 400003 012",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "014",
+    "posX": 1770,
+    "posY": 252,
+    "neighbors": "015 4314 013",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "015",
+    "posX": 1770,
+    "posY": 302,
+    "neighbors": "016 4347 014",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "016",
+    "posX": 1770,
+    "posY": 335,
+    "neighbors": "017 4313 015",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "017",
+    "posX": 1770,
+    "posY": 379,
+    "neighbors": "018 4349 016",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "018",
+    "posX": 1770,
+    "posY": 422,
+    "neighbors": "019 4312 017",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "019",
+    "posX": 1770,
+    "posY": 481,
+    "neighbors": "020 018 400200",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "020",
+    "posX": 1770,
+    "posY": 500,
+    "neighbors": "021 019 4311",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "021",
+    "posX": 1770,
+    "posY": 540,
+    "neighbors": "022 400300 020",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "022",
+    "posX": 1770,
+    "posY": 553,
+    "neighbors": "024 021 4310",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "024",
+    "posX": 1770,
+    "posY": 615,
+    "neighbors": "022 025 029",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "025",
+    "posX": 1733,
+    "posY": 615,
+    "neighbors": "4307 026 024",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "026",
+    "posX": 1691,
+    "posY": 615,
+    "neighbors": "400001 025",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "029",
+    "posX": 1770,
+    "posY": 693,
+    "neighbors": "4308 4309 024",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "030",
+    "posX": 1546,
+    "posY": 969,
+    "neighbors": "400000 031",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "031",
+    "posX": 1573,
+    "posY": 943,
+    "neighbors": "030 032",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "032",
+    "posX": 1540,
+    "posY": 908,
+    "neighbors": "031 3307",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "033",
+    "posX": 1544,
+    "posY": 163,
+    "neighbors": "005 400004 034",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "034",
+    "posX": 1482,
+    "posY": 163,
+    "neighbors": "033 004 400201",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "035",
+    "posX": 1423,
+    "posY": 117,
+    "neighbors": "007 400302",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "036",
+    "posX": 1169,
+    "posY": 163,
+    "neighbors": "011 4258 037",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "037",
+    "posX": 1128,
+    "posY": 163,
+    "neighbors": "036 039 038",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "038",
+    "posX": 1090,
+    "posY": 163,
+    "neighbors": "037 4259 040",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "039",
+    "posX": 1128,
+    "posY": 80,
+    "neighbors": "037 400005",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "040",
+    "posX": 1052,
+    "posY": 163,
+    "neighbors": "038 4254 041",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "041",
+    "posX": 1011,
+    "posY": 163,
+    "neighbors": "040 4260 042",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "042",
+    "posX": 965,
+    "posY": 163,
+    "neighbors": "041 4253 043",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "043",
+    "posX": 894,
+    "posY": 163,
+    "neighbors": "042 4261 044",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "044",
+    "posX": 855,
+    "posY": 163,
+    "neighbors": "045 4251 043",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "045",
+    "posX": 852,
+    "posY": 163,
+    "neighbors": "044 4262 046",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "046",
+    "posX": 813,
+    "posY": 163,
+    "neighbors": "045 4250 047",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "047",
+    "posX": 775,
+    "posY": 163,
+    "neighbors": "046 4263 048",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "048",
+    "posX": 737,
+    "posY": 163,
+    "neighbors": "047 4249 049",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "049",
+    "posX": 644,
+    "posY": 163,
+    "neighbors": "048 4264 050",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "050",
+    "posX": 603,
+    "posY": 163,
+    "neighbors": "049 400006 051",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "051",
+    "posX": 598,
+    "posY": 163,
+    "neighbors": "050 4248 052",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "052",
+    "posX": 523,
+    "posY": 163,
+    "neighbors": "051 4266 053",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "053",
+    "posX": 505,
+    "posY": 163,
+    "neighbors": "052 054 400202",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "054",
+    "posX": 452,
+    "posY": 163,
+    "neighbors": "053 400401 055",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "055",
+    "posX": 445,
+    "posY": 163,
+    "neighbors": "054 4267 056",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "056",
+    "posX": 406,
+    "posY": 163,
+    "neighbors": "055 4238 057",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "057",
+    "posX": 366,
+    "posY": 163,
+    "neighbors": "056 4268 058",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "058",
+    "posX": 328,
+    "posY": 163,
+    "neighbors": "4269 057 059",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "059",
+    "posX": 291,
+    "posY": 163,
+    "neighbors": "058 4237 060",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "060",
+    "posX": 243,
+    "posY": 163,
+    "neighbors": "059 4236 061",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "061",
+    "posX": 213,
+    "posY": 163,
+    "neighbors": "060 4235 400007 062",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "062",
+    "posX": 163,
+    "posY": 207,
+    "neighbors": "400007 061 063 064",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "063",
+    "posX": 120,
+    "posY": 207,
+    "neighbors": "062 400303",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "064",
+    "posX": 163,
+    "posY": 297,
+    "neighbors": "062 4232 065",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "065",
+    "posX": 163,
+    "posY": 328,
+    "neighbors": "064 4231 4203 066",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "066",
+    "posX": 163,
+    "posY": 408,
+    "neighbors": "065 4204 4230 067",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "067",
+    "posX": 163,
+    "posY": 443,
+    "neighbors": "066 4229 068",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "068",
+    "posX": 163,
+    "posY": 503,
+    "neighbors": "067 069 400203",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "069",
+    "posX": 163,
+    "posY": 523,
+    "neighbors": "068 4205 070",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "070",
+    "posX": 163,
+    "posY": 603,
+    "neighbors": "069 400008 071",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "071",
+    "posX": 163,
+    "posY": 609,
+    "neighbors": "070 4222 072",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "072",
+    "posX": 163,
+    "posY": 643,
+    "neighbors": "071 4208 073",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "073",
+    "posX": 163,
+    "posY": 692,
+    "neighbors": "072 4221 074",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "074",
+    "posX": 163,
+    "posY": 735,
+    "neighbors": "073 4209 075",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "075",
+    "posX": 163,
+    "posY": 772,
+    "neighbors": "074 4220 076",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "076",
+    "posX": 163,
+    "posY": 852,
+    "neighbors": "075 4210 077",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "077",
+    "posX": 163,
+    "posY": 931,
+    "neighbors": "076 4218 078",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "078",
+    "posX": 163,
+    "posY": 971,
+    "neighbors": "077 4211 079",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "079",
+    "posX": 163,
+    "posY": 1015,
+    "neighbors": "078 4212 080",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "080",
+    "posX": 163,
+    "posY": 1052,
+    "neighbors": "079 081 082",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "081",
+    "posX": 81,
+    "posY": 1052,
+    "neighbors": "080 400009",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "082",
+    "posX": 163,
+    "posY": 1130,
+    "neighbors": "080 4213 4216 083",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "083",
+    "posX": 163,
+    "posY": 1208,
+    "neighbors": "082 4215 4214 084",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "084",
+    "posX": 163,
+    "posY": 1265,
+    "neighbors": "083 400101 085",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "085",
+    "posX": 163,
+    "posY": 1302,
+    "neighbors": "084 4135 086",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "086",
+    "posX": 163,
+    "posY": 1338,
+    "neighbors": "085 4136 087",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "087",
+    "posX": 163,
+    "posY": 1381,
+    "neighbors": "086 4137 088",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "088",
+    "posX": 163,
+    "posY": 1420,
+    "neighbors": "087 089 4138 090",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "089",
+    "posX": 124,
+    "posY": 1420,
+    "neighbors": "088 400304",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "090",
+    "posX": 163,
+    "posY": 1460,
+    "neighbors": "088 4139 091",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "091",
+    "posX": 163,
+    "posY": 1480,
+    "neighbors": "090 093 400204",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "093",
+    "posX": 163,
+    "posY": 1541,
+    "neighbors": "400010 094 095 091",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "094",
+    "posX": 119,
+    "posY": 1588,
+    "neighbors": "093 400305 095",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "095",
+    "posX": 163,
+    "posY": 1588,
+    "neighbors": "094 093 096",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "096",
+    "posX": 163,
+    "posY": 1619,
+    "neighbors": "095 4140 097",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "097",
+    "posX": 163,
+    "posY": 1654,
+    "neighbors": "096 4119 098",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "098",
+    "posX": 163,
+    "posY": 1699,
+    "neighbors": "097 4118 099",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "099",
+    "posX": 163,
+    "posY": 1706,
+    "neighbors": "098 4141 100",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "100",
+    "posX": 163,
+    "posY": 1744,
+    "neighbors": "099 4117 101",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "101",
+    "posX": 163,
+    "posY": 1772,
+    "neighbors": "100 102",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "102",
+    "posX": 197,
+    "posY": 1772,
+    "neighbors": "101 400402 103",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "103",
+    "posX": 209,
+    "posY": 1772,
+    "neighbors": "102 400011 104",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "104",
+    "posX": 242,
+    "posY": 1772,
+    "neighbors": "103 4115 105",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "105",
+    "posX": 302,
+    "posY": 1772,
+    "neighbors": "104 4148 4114 106",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "106",
+    "posX": 379,
+    "posY": 1772,
+    "neighbors": "105 4150 108",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "107",
+    "posX": 423,
+    "posY": 1772,
+    "neighbors": "108 4151 111",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "108",
+    "posX": 420,
+    "posY": 1772,
+    "neighbors": "106 109 107",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "109",
+    "posX": 420,
+    "posY": 1809,
+    "neighbors": "108 4113 4112 4111",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "111",
+    "posX": 481,
+    "posY": 1772,
+    "neighbors": "112 400205 107",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "112",
+    "posX": 540,
+    "posY": 1772,
+    "neighbors": "111 400306 114",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "114",
+    "posX": 616,
+    "posY": 1772,
+    "neighbors": "116 112 115",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "115",
+    "posX": 616,
+    "posY": 1688,
+    "neighbors": "114 400012",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "116",
+    "posX": 653,
+    "posY": 1772,
+    "neighbors": "114 118 4110",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "118",
+    "posX": 658,
+    "posY": 1772,
+    "neighbors": "116 4107 119",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "119",
+    "posX": 691,
+    "posY": 1772,
+    "neighbors": "118 4109 4105 4108",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "120",
+    "posX": 968,
+    "posY": 1546,
+    "neighbors": "121 400013",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "121",
+    "posX": 942,
+    "posY": 1572,
+    "neighbors": "122 120",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "122",
+    "posX": 907,
+    "posY": 1538,
+    "neighbors": "3107 121",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "400401",
+    "posX": 452,
+    "posY": 121,
+    "neighbors": "054",
+    "type": "endpoint",
+    "floor": 4
+  },
+  {
+    "id": "123",
+    "posX": 1621,
+    "posY": 163,
+    "neighbors": "005 003 4339",
+    "type": "waypoint",
+    "floor": 4
+  },
+  {
+    "id": "500002",
+    "posX": 153,
+    "posY": 151,
+    "neighbors": "144 141 400007",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5238",
+    "posX": 213,
+    "posY": 103,
+    "neighbors": "144",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5239",
+    "posX": 326,
+    "posY": 103,
+    "neighbors": "143",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5240",
+    "posX": 406,
+    "posY": 103,
+    "neighbors": "146",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "500400",
+    "posX": 449,
+    "posY": 120,
+    "neighbors": "148",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "500200",
+    "posX": 504,
+    "posY": 139,
+    "neighbors": "149",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5274",
+    "posX": 326,
+    "posY": 190,
+    "neighbors": "143",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5273",
+    "posX": 366,
+    "posY": 190,
+    "neighbors": "145",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5272",
+    "posX": 445,
+    "posY": 190,
+    "neighbors": "147",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5271",
+    "posX": 523,
+    "posY": 190,
+    "neighbors": "150",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5249",
+    "posX": 566,
+    "posY": 103,
+    "neighbors": "151",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5250",
+    "posX": 603,
+    "posY": 103,
+    "neighbors": "152",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "500001",
+    "posX": 603,
+    "posY": 197,
+    "neighbors": "152 400006",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5269",
+    "posX": 643,
+    "posY": 190,
+    "neighbors": "153",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5268",
+    "posX": 694,
+    "posY": 190,
+    "neighbors": "154",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5267",
+    "posX": 737,
+    "posY": 190,
+    "neighbors": "155",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5266",
+    "posX": 775,
+    "posY": 190,
+    "neighbors": "156",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5265",
+    "posX": 814,
+    "posY": 190,
+    "neighbors": "157",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5264",
+    "posX": 853,
+    "posY": 190,
+    "neighbors": "158",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5251",
+    "posX": 737,
+    "posY": 103,
+    "neighbors": "155",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5252",
+    "posX": 814,
+    "posY": 103,
+    "neighbors": "157",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5253",
+    "posX": 855,
+    "posY": 103,
+    "neighbors": "159",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5255",
+    "posX": 1013,
+    "posY": 103,
+    "neighbors": "161",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5256",
+    "posX": 1050,
+    "posY": 103,
+    "neighbors": "162",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5263",
+    "posX": 932,
+    "posY": 190,
+    "neighbors": "160",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5262",
+    "posX": 1013,
+    "posY": 190,
+    "neighbors": "161",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5261",
+    "posX": 1090,
+    "posY": 190,
+    "neighbors": "163",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "500000",
+    "posX": 1090,
+    "posY": 127,
+    "neighbors": "163 400005",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5258",
+    "posX": 1210,
+    "posY": 103,
+    "neighbors": "165",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5260",
+    "posX": 1167,
+    "posY": 190,
+    "neighbors": "164",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "500300",
+    "posX": 119,
+    "posY": 246,
+    "neighbors": "142 400303 300303 200303 100303",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5202",
+    "posX": 245,
+    "posY": 327,
+    "neighbors": "140",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5203",
+    "posX": 245,
+    "posY": 363,
+    "neighbors": "139",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5234",
+    "posX": 85,
+    "posY": 326,
+    "neighbors": "140",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5233",
+    "posX": 85,
+    "posY": 442,
+    "neighbors": "137",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5204",
+    "posX": 245,
+    "posY": 407,
+    "neighbors": "138",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5205",
+    "posX": 245,
+    "posY": 442,
+    "neighbors": "137",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "500201",
+    "posX": 140,
+    "posY": 503,
+    "neighbors": "136",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "500003",
+    "posX": 199,
+    "posY": 602,
+    "neighbors": "135 400008",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5226",
+    "posX": 85,
+    "posY": 642,
+    "neighbors": "134",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5207",
+    "posX": 245,
+    "posY": 642,
+    "neighbors": "134",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5208",
+    "posX": 245,
+    "posY": 692,
+    "neighbors": "133",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5225",
+    "posX": 85,
+    "posY": 692,
+    "neighbors": "133",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5224",
+    "posX": 85,
+    "posY": 737,
+    "neighbors": "132",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5209",
+    "posX": 245,
+    "posY": 737,
+    "neighbors": "132",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5210",
+    "posX": 245,
+    "posY": 814,
+    "neighbors": "131",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5222",
+    "posX": 85,
+    "posY": 814,
+    "neighbors": "131",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5211",
+    "posX": 245,
+    "posY": 892,
+    "neighbors": "130",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5221",
+    "posX": 85,
+    "posY": 930,
+    "neighbors": "129",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5212",
+    "posX": 245,
+    "posY": 971,
+    "neighbors": "128",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5213",
+    "posX": 245,
+    "posY": 1009,
+    "neighbors": "127",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "500004",
+    "posX": 129,
+    "posY": 1088,
+    "neighbors": "126 400009",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5214",
+    "posX": 245,
+    "posY": 1088,
+    "neighbors": "126",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5215",
+    "posX": 245,
+    "posY": 1131,
+    "neighbors": "125",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5219",
+    "posX": 85,
+    "posY": 1131,
+    "neighbors": "125",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5218",
+    "posX": 85,
+    "posY": 1206,
+    "neighbors": "124",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "5216",
+    "posX": 245,
+    "posY": 1206,
+    "neighbors": "124",
+    "type": "endpoint",
+    "floor": 5
+  },
+  {
+    "id": "124",
+    "posX": 163,
+    "posY": 1206,
+    "neighbors": "125 5218 5216",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "125",
+    "posX": 163,
+    "posY": 1131,
+    "neighbors": "5215 126 5219 124",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "126",
+    "posX": 163,
+    "posY": 1088,
+    "neighbors": "127 500004 5214 125",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "127",
+    "posX": 163,
+    "posY": 1009,
+    "neighbors": "128 5213 126",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "128",
+    "posX": 163,
+    "posY": 971,
+    "neighbors": "127 129 5212",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "129",
+    "posX": 163,
+    "posY": 930,
+    "neighbors": "130 5221 128",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "130",
+    "posX": 163,
+    "posY": 892,
+    "neighbors": "131 5211 129",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "131",
+    "posX": 163,
+    "posY": 814,
+    "neighbors": "132 5222 5210 130",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "132",
+    "posX": 163,
+    "posY": 737,
+    "neighbors": "133 5224 5209 131",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "133",
+    "posX": 163,
+    "posY": 692,
+    "neighbors": "134 132 5208 5225",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "134",
+    "posX": 163,
+    "posY": 642,
+    "neighbors": "135 133 5226 5207",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "135",
+    "posX": 163,
+    "posY": 602,
+    "neighbors": "136 500003 134",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "136",
+    "posX": 163,
+    "posY": 503,
+    "neighbors": "137 500201 135",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "137",
+    "posX": 163,
+    "posY": 442,
+    "neighbors": "138 5205 5233 136",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "138",
+    "posX": 163,
+    "posY": 407,
+    "neighbors": "139 137 5204",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "139",
+    "posX": 163,
+    "posY": 363,
+    "neighbors": "140 138 5203",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "140",
+    "posX": 163,
+    "posY": 327,
+    "neighbors": "141 5202 5234 139",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "141",
+    "posX": 163,
+    "posY": 207,
+    "neighbors": "144 500002 142 140",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "142",
+    "posX": 119,
+    "posY": 207,
+    "neighbors": "141 500300",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "143",
+    "posX": 326,
+    "posY": 163,
+    "neighbors": "145 144 5274 5239",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "144",
+    "posX": 213,
+    "posY": 163,
+    "neighbors": "143 5238 141 500002",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "145",
+    "posX": 366,
+    "posY": 163,
+    "neighbors": "146 143 5273",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "146",
+    "posX": 406,
+    "posY": 163,
+    "neighbors": "147 145 5240",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "147",
+    "posX": 445,
+    "posY": 163,
+    "neighbors": "148 5272 146",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "148",
+    "posX": 449,
+    "posY": 163,
+    "neighbors": "149 147 500400",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "149",
+    "posX": 504,
+    "posY": 163,
+    "neighbors": "150 500200 148",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "150",
+    "posX": 523,
+    "posY": 163,
+    "neighbors": "151 5271 149",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "151",
+    "posX": 566,
+    "posY": 163,
+    "neighbors": "152 5249 150",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "152",
+    "posX": 603,
+    "posY": 163,
+    "neighbors": "500001 5250 153 151",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "153",
+    "posX": 643,
+    "posY": 163,
+    "neighbors": "154 5269 152",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "154",
+    "posX": 694,
+    "posY": 163,
+    "neighbors": "155 5268 153",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "155",
+    "posX": 737,
+    "posY": 163,
+    "neighbors": "5267 156 5251 154",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "156",
+    "posX": 775,
+    "posY": 163,
+    "neighbors": "157 5266 155",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "157",
+    "posX": 814,
+    "posY": 163,
+    "neighbors": "158 5265 5252 156",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "158",
+    "posX": 853,
+    "posY": 163,
+    "neighbors": "159 5264 157",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "159",
+    "posX": 855,
+    "posY": 163,
+    "neighbors": "160 5253 158",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "160",
+    "posX": 932,
+    "posY": 163,
+    "neighbors": "161 5263 159",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "161",
+    "posX": 1013,
+    "posY": 163,
+    "neighbors": "162 5255 5262 160",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "162",
+    "posX": 1050,
+    "posY": 163,
+    "neighbors": "163 5256 161",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "163",
+    "posX": 1090,
+    "posY": 163,
+    "neighbors": "164 500000 5261 162",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "164",
+    "posX": 1167,
+    "posY": 163,
+    "neighbors": "165 5260 163",
+    "type": "waypoint",
+    "floor": 5
+  },
+  {
+    "id": "165",
+    "posX": 1210,
+    "posY": 163,
+    "neighbors": "5258 164",
+    "type": "waypoint",
+    "floor": 5
+  }
+]

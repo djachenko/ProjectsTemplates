@@ -1,0 +1,1163 @@
+[
+    {
+        "id": "107a_p",
+        "posX": 897,
+        "posY": 927,
+        "neighbors": "waypoint_waypoint_1_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "106a_p",
+        "posX": 897,
+        "posY": 948,
+        "neighbors": "waypoint_waypoint_3_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "105a_p",
+        "posX": 897,
+        "posY": 975,
+        "neighbors": "waypoint_waypoint_4_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "104a_p",
+        "posX": 897,
+        "posY": 999,
+        "neighbors": "waypoint_waypoint_6_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "103a_p",
+        "posX": 897,
+        "posY": 1026,
+        "neighbors": "waypoint_waypoint_8_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "108a_p",
+        "posX": 974,
+        "posY": 944,
+        "neighbors": "waypoint_waypoint_2_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "110a_p",
+        "posX": 974,
+        "posY": 1010,
+        "neighbors": "waypoint_waypoint_7_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "112a_p",
+        "posX": 943,
+        "posY": 1149,
+        "neighbors": "waypoint_waypoint_9_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "113a_p",
+        "posX": 970,
+        "posY": 1149,
+        "neighbors": "waypoint_waypoint_11_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "101a_p",
+        "posX": 1043,
+        "posY": 1150,
+        "neighbors": "waypoint_waypoint_17_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "114a_p",
+        "posX": 1015,
+        "posY": 966,
+        "neighbors": "waypoint_waypoint_15_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "115a_p",
+        "posX": 1098,
+        "posY": 1046,
+        "neighbors": "waypoint_waypoint_19_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "117a_p",
+        "posX": 1174,
+        "posY": 1032,
+        "neighbors": "waypoint_waypoint_20_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "118a_p",
+        "posX": 1256,
+        "posY": 1192,
+        "neighbors": "waypoint_waypoint_39_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "119a_p",
+        "posX": 1254,
+        "posY": 940,
+        "neighbors": "waypoint_waypoint_23_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "100b_p",
+        "posX": 1345,
+        "posY": 1036,
+        "neighbors": "waypoint_waypoint_25_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "120a_p",
+        "posX": 1529,
+        "posY": 1194,
+        "neighbors": "waypoint_waypoint_45_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "121a_p",
+        "posX": 1533,
+        "posY": 943,
+        "neighbors": "waypoint_waypoint_40_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "100a_p",
+        "posX": 1431,
+        "posY": 1035,
+        "neighbors": "waypoint_waypoint_28_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "122a_p",
+        "posX": 1545,
+        "posY": 1042,
+        "neighbors": "waypoint_waypoint_42_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "122b_p",
+        "posX": 1628,
+        "posY": 1030,
+        "neighbors": "waypoint_waypoint_32_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "123a_p",
+        "posX": 1656,
+        "posY": 1030,
+        "neighbors": "waypoint_waypoint_33_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "124a_p",
+        "posX": 1703,
+        "posY": 1030,
+        "neighbors": "waypoint_waypoint_35_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "125a_p",
+        "posX": 1737,
+        "posY": 1030,
+        "neighbors": "waypoint_waypoint_36_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "100100_p",
+        "posX": 1686,
+        "posY": 1106,
+        "neighbors": "waypoint_waypoint_34_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_1_p",
+        "posX": 943,
+        "posY": 927,
+        "neighbors": "waypoint_waypoint_2_p 107a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_2_p",
+        "posX": 943,
+        "posY": 944,
+        "neighbors": "waypoint_waypoint_1_p 108a_p waypoint_waypoint_3_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_3_p",
+        "posX": 943,
+        "posY": 948,
+        "neighbors": "waypoint_waypoint_4_p waypoint_waypoint_2_p 106a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_4_p",
+        "posX": 943,
+        "posY": 975,
+        "neighbors": "105a_p waypoint_waypoint_3_p waypoint_waypoint_6_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_6_p",
+        "posX": 943,
+        "posY": 999,
+        "neighbors": "104a_p waypoint_waypoint_4_p waypoint_waypoint_7_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_7_p",
+        "posX": 943,
+        "posY": 1010,
+        "neighbors": "waypoint_waypoint_8_p 110a_p waypoint_waypoint_6_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_8_p",
+        "posX": 943,
+        "posY": 1026,
+        "neighbors": "waypoint_waypoint_7_p 103a_p waypoint_waypoint_9_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_9_p",
+        "posX": 943,
+        "posY": 1076,
+        "neighbors": "112a_p waypoint_waypoint_11_p waypoint_waypoint_8_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_11_p",
+        "posX": 970,
+        "posY": 1076,
+        "neighbors": "waypoint_waypoint_12_p 113a_p waypoint_waypoint_9_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_12_p",
+        "posX": 1015,
+        "posY": 1076,
+        "neighbors": "waypoint_waypoint_16_p waypoint_waypoint_11_p waypoint_waypoint_13_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_13_p",
+        "posX": 1015,
+        "posY": 1042,
+        "neighbors": "waypoint_waypoint_12_p waypoint_waypoint_14_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_14_p",
+        "posX": 1002,
+        "posY": 1037,
+        "neighbors": "waypoint_waypoint_15_p waypoint_waypoint_13_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_15_p",
+        "posX": 1015,
+        "posY": 1013,
+        "neighbors": "114a_p waypoint_waypoint_14_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_16_p",
+        "posX": 1043,
+        "posY": 1076,
+        "neighbors": "waypoint_waypoint_17_p waypoint_waypoint_12_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_17_p",
+        "posX": 1043,
+        "posY": 1089,
+        "neighbors": "waypoint_waypoint_16_p waypoint_waypoint_18_p 101a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_18_p",
+        "posX": 1068,
+        "posY": 1089,
+        "neighbors": "waypoint_waypoint_17_p waypoint_waypoint_19_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_19_p",
+        "posX": 1098,
+        "posY": 1081,
+        "neighbors": "waypoint_waypoint_20_p waypoint_waypoint_18_p 115a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_20_p",
+        "posX": 1174,
+        "posY": 1081,
+        "neighbors": "117a_p waypoint_waypoint_30_p waypoint_waypoint_19_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_21_p",
+        "posX": 1302,
+        "posY": 1081,
+        "neighbors": "waypoint_waypoint_26_p waypoint_waypoint_30_p waypoint_waypoint_24_p waypoint_waypoint_38_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_22_p",
+        "posX": 1302,
+        "posY": 1000,
+        "neighbors": "waypoint_waypoint_23_p waypoint_waypoint_24_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_23_p",
+        "posX": 1254,
+        "posY": 1000,
+        "neighbors": "waypoint_waypoint_22_p 119a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_24_p",
+        "posX": 1302,
+        "posY": 1059,
+        "neighbors": "waypoint_waypoint_22_p waypoint_waypoint_21_p waypoint_waypoint_25_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_25_p",
+        "posX": 1345,
+        "posY": 1059,
+        "neighbors": "100b_p waypoint_waypoint_24_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_26_p",
+        "posX": 1487,
+        "posY": 1081,
+        "neighbors": "waypoint_waypoint_27_p waypoint_waypoint_43_p waypoint_waypoint_21_p waypoint_waypoint_31_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_27_p",
+        "posX": 1485,
+        "posY": 1057,
+        "neighbors": "waypoint_waypoint_26_p waypoint_waypoint_28_p waypoint_waypoint_29_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_28_p",
+        "posX": 1431,
+        "posY": 1057,
+        "neighbors": "100a_p waypoint_waypoint_27_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_29_p",
+        "posX": 1486,
+        "posY": 1003,
+        "neighbors": "waypoint_waypoint_27_p waypoint_waypoint_40_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_30_p",
+        "posX": 1212,
+        "posY": 1081,
+        "neighbors": "waypoint_waypoint_20_p waypoint_waypoint_37_p waypoint_waypoint_21_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_31_p",
+        "posX": 1574,
+        "posY": 1081,
+        "neighbors": "waypoint_waypoint_46_p waypoint_waypoint_26_p waypoint_waypoint_44_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_32_p",
+        "posX": 1628,
+        "posY": 1081,
+        "neighbors": "waypoint_waypoint_46_p 122b_p waypoint_waypoint_33_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_33_p",
+        "posX": 1657,
+        "posY": 1081,
+        "neighbors": "waypoint_waypoint_32_p waypoint_waypoint_34_p 123a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_34_p",
+        "posX": 1686,
+        "posY": 1081,
+        "neighbors": "waypoint_waypoint_33_p waypoint_waypoint_35_p 100100_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_35_p",
+        "posX": 1703,
+        "posY": 1081,
+        "neighbors": "waypoint_waypoint_34_p 124a_p waypoint_waypoint_36_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_36_p",
+        "posX": 1738,
+        "posY": 1081,
+        "neighbors": "125a_p waypoint_waypoint_35_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_37_p",
+        "posX": 1212,
+        "posY": 1131,
+        "neighbors": "waypoint_waypoint_30_p waypoint_waypoint_39_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_38_p",
+        "posX": 1303,
+        "posY": 1131,
+        "neighbors": "waypoint_waypoint_21_p waypoint_waypoint_39_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_39_p",
+        "posX": 1256,
+        "posY": 1131,
+        "neighbors": "waypoint_waypoint_37_p 118a_p waypoint_waypoint_38_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_40_p",
+        "posX": 1533,
+        "posY": 1003,
+        "neighbors": "waypoint_waypoint_41_p 121a_p waypoint_waypoint_29_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_41_p",
+        "posX": 1582,
+        "posY": 1003,
+        "neighbors": "waypoint_waypoint_42_p waypoint_waypoint_40_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_42_p",
+        "posX": 1585,
+        "posY": 1042,
+        "neighbors": "122a_p waypoint_waypoint_46_p waypoint_waypoint_41_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_43_p",
+        "posX": 1487,
+        "posY": 1133,
+        "neighbors": "waypoint_waypoint_26_p waypoint_waypoint_45_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_44_p",
+        "posX": 1575,
+        "posY": 1133,
+        "neighbors": "waypoint_waypoint_31_p waypoint_waypoint_45_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_45_p",
+        "posX": 1530,
+        "posY": 1133,
+        "neighbors": "waypoint_waypoint_43_p 120a_p waypoint_waypoint_44_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "waypoint_waypoint_46_p",
+        "posX": 1585,
+        "posY": 1081,
+        "neighbors": "waypoint_waypoint_32_p waypoint_waypoint_42_p waypoint_waypoint_31_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 1
+    },
+    {
+        "id": "201a_p",
+        "posX": 900,
+        "posY": 946,
+        "neighbors": "waypoint_waypoint_47_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "202a_p",
+        "posX": 952,
+        "posY": 1155,
+        "neighbors": "waypoint_waypoint_48_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "203a_p",
+        "posX": 994,
+        "posY": 1155,
+        "neighbors": "waypoint_waypoint_49_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "204a_p",
+        "posX": 1019,
+        "posY": 1155,
+        "neighbors": "waypoint_waypoint_50_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "209a_p",
+        "posX": 1125,
+        "posY": 1030,
+        "neighbors": "waypoint_waypoint_51_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "211a_p",
+        "posX": 1148,
+        "posY": 1030,
+        "neighbors": "waypoint_waypoint_52_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "213a_p",
+        "posX": 1179,
+        "posY": 1031,
+        "neighbors": "waypoint_waypoint_55_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "215a_p",
+        "posX": 1207,
+        "posY": 1031,
+        "neighbors": "waypoint_waypoint_56_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "217a_p",
+        "posX": 1230,
+        "posY": 1031,
+        "neighbors": "waypoint_waypoint_57_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "200100_p",
+        "posX": 1160,
+        "posY": 1103,
+        "neighbors": "waypoint_waypoint_53_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "218a_p",
+        "posX": 1308,
+        "posY": 1031,
+        "neighbors": "waypoint_waypoint_58_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "219a_p",
+        "posX": 1381,
+        "posY": 1031,
+        "neighbors": "waypoint_waypoint_60_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "234a_p",
+        "posX": 1358,
+        "posY": 1107,
+        "neighbors": "waypoint_waypoint_59_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "233a_p",
+        "posX": 1395,
+        "posY": 1107,
+        "neighbors": "waypoint_waypoint_61_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "232a_p",
+        "posX": 1430,
+        "posY": 1107,
+        "neighbors": "waypoint_waypoint_63_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "220a_p",
+        "posX": 1409,
+        "posY": 1031,
+        "neighbors": "waypoint_waypoint_62_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "221a_p",
+        "posX": 1456,
+        "posY": 1031,
+        "neighbors": "waypoint_waypoint_64_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "222a_p",
+        "posX": 1481,
+        "posY": 1031,
+        "neighbors": "waypoint_waypoint_65_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "223a_p",
+        "posX": 1531,
+        "posY": 1031,
+        "neighbors": "waypoint_waypoint_66_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "224a_p",
+        "posX": 1558,
+        "posY": 1031,
+        "neighbors": "waypoint_waypoint_67_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "225a_p",
+        "posX": 1608,
+        "posY": 1031,
+        "neighbors": "waypoint_waypoint_68_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "231a_p",
+        "posX": 1625,
+        "posY": 1108,
+        "neighbors": "waypoint_waypoint_70_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "226a_p",
+        "posX": 1632,
+        "posY": 1031,
+        "neighbors": "waypoint_waypoint_69_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "227a_p",
+        "posX": 1659,
+        "posY": 1055,
+        "neighbors": "waypoint_waypoint_73_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "228a_p",
+        "posX": 1709,
+        "posY": 1045,
+        "neighbors": "229a_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "229a_p",
+        "posX": 1736,
+        "posY": 1045,
+        "neighbors": "228a_p waypoint_waypoint_74_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "230a_p",
+        "posX": 1658,
+        "posY": 1108,
+        "neighbors": "waypoint_waypoint_71_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_47_p",
+        "posX": 900,
+        "posY": 1078,
+        "neighbors": "201a_p waypoint_waypoint_48_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_48_p",
+        "posX": 952,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_47_p waypoint_waypoint_49_p 202a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_49_p",
+        "posX": 994,
+        "posY": 1078,
+        "neighbors": "203a_p waypoint_waypoint_50_p waypoint_waypoint_48_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_50_p",
+        "posX": 1019,
+        "posY": 1078,
+        "neighbors": "204a_p waypoint_waypoint_49_p waypoint_waypoint_51_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_51_p",
+        "posX": 1125,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_54_p waypoint_waypoint_50_p 209a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_52_p",
+        "posX": 1148,
+        "posY": 1078,
+        "neighbors": "211a_p waypoint_waypoint_54_p waypoint_waypoint_55_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_53_p",
+        "posX": 1140,
+        "posY": 1103,
+        "neighbors": "waypoint_waypoint_54_p 200100_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_54_p",
+        "posX": 1140,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_52_p waypoint_waypoint_53_p waypoint_waypoint_51_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_55_p",
+        "posX": 1179,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_52_p 213a_p waypoint_waypoint_56_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_56_p",
+        "posX": 1207,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_55_p waypoint_waypoint_57_p 215a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_57_p",
+        "posX": 1230,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_58_p 217a_p waypoint_waypoint_56_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_58_p",
+        "posX": 1308,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_57_p waypoint_waypoint_59_p 218a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_59_p",
+        "posX": 1358,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_60_p waypoint_waypoint_58_p 234a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_60_p",
+        "posX": 1381,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_59_p waypoint_waypoint_61_p 219a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_61_p",
+        "posX": 1395,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_60_p waypoint_waypoint_62_p 233a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_62_p",
+        "posX": 1409,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_61_p 220a_p waypoint_waypoint_63_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_63_p",
+        "posX": 1430,
+        "posY": 1078,
+        "neighbors": "232a_p waypoint_waypoint_62_p waypoint_waypoint_64_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_64_p",
+        "posX": 1456,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_65_p waypoint_waypoint_63_p 221a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_65_p",
+        "posX": 1481,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_66_p waypoint_waypoint_64_p 222a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_66_p",
+        "posX": 1531,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_67_p waypoint_waypoint_65_p 223a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_67_p",
+        "posX": 1558,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_66_p waypoint_waypoint_68_p 224a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_68_p",
+        "posX": 1608,
+        "posY": 1078,
+        "neighbors": "225a_p waypoint_waypoint_67_p waypoint_waypoint_70_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_69_p",
+        "posX": 1632,
+        "posY": 1078,
+        "neighbors": "226a_p waypoint_waypoint_71_p waypoint_waypoint_70_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_70_p",
+        "posX": 1625,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_68_p waypoint_waypoint_69_p 231a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_71_p",
+        "posX": 1658,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_72_p waypoint_waypoint_69_p 230a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_72_p",
+        "posX": 1681,
+        "posY": 1078,
+        "neighbors": "waypoint_waypoint_73_p waypoint_waypoint_71_p waypoint_waypoint_74_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_73_p",
+        "posX": 1681,
+        "posY": 1055,
+        "neighbors": "227a_p waypoint_waypoint_72_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "waypoint_waypoint_74_p",
+        "posX": 1736,
+        "posY": 1078,
+        "neighbors": "229a_p waypoint_waypoint_72_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 2
+    },
+    {
+        "id": "306a_p",
+        "posX": 1066,
+        "posY": 1034,
+        "neighbors": "waypoint_waypoint_76_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 3
+    },
+    {
+        "id": "301a_p",
+        "posX": 1066,
+        "posY": 1095,
+        "neighbors": "waypoint_waypoint_76_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 3
+    },
+    {
+        "id": "301k_p",
+        "posX": 896,
+        "posY": 1090,
+        "neighbors": "waypoint_waypoint_75_p",
+        "room": null,
+        "type": "endpoint",
+        "floor": 3
+    },
+    {
+        "id": "waypoint_waypoint_75_p",
+        "posX": 896,
+        "posY": 1071,
+        "neighbors": "301k_p waypoint_waypoint_76_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 3
+    },
+    {
+        "id": "waypoint_waypoint_76_p",
+        "posX": 1066,
+        "posY": 1072,
+        "neighbors": "waypoint_waypoint_75_p 306a_p 301a_p",
+        "room": null,
+        "type": "waypoint",
+        "floor": 3
+    }
+]

@@ -1,0 +1,92 @@
+<html>
+  <!-- See also: http://kempe.net/blog/2014/06/14/leaflet-pan-zoom-image.html -->
+  <head>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"></script>
+    <style>
+    #image-map {
+      width: 80%;
+      height: 80%;
+      margin-left: 200px;
+    }
+    #form {
+      float:left;
+      width: 200px;
+    }
+    #form-marker {
+     
+    }
+    </style>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  </head>
+
+  <body>
+    <a href="https://docs.google.com/document/d/1dM4o-GmnCn6xXH6Fx3LCSMuRFuBl2cYBa5-mSmnlNes/edit?usp=sharing">See Documents</a>
+
+    <p>
+      <a href="#" role="button" class="btn btn-default btn-lg open-floor" floor="0" url="img/floors/building_new_floor_0.png">Floor 0</a>
+      <a href="#" role="button" class="btn btn-default btn-lg open-floor" floor="1" url="img/floors/building_new_floor_1.png">Floor 1</a>
+      <a href="#" role="button" class="btn btn-default btn-lg open-floor" floor="2" url="img/floors/building_new_floor_2.png">Floor 2</a>
+      <a href="#" role="button" class="btn btn-default btn-lg open-floor" floor="3" url="img/floors/building_new_floor_3.png">Floor 3</a>
+      <a href="#" role="button" class="btn btn-default btn-lg open-floor" floor="4" url="img/floors/building_new_floor_4.png">Floor 4</a>
+      <a href="#" role="button" class="btn btn-default btn-lg open-floor" floor="5" url="img/floors/building_new_floor_5.png">Floor 5</a>
+      <!-- <a href="#" role="button" class="btn btn-default btn-lg open-floor" floor="0" url="img/floors/building_old.floor_0.png">Floor 0</a> -->
+      <!-- <a href="#" role="button" class="btn btn-default btn-lg open-floor" floor="1" url="img/floors/building_old.floor_1.png">Floor 1</a> -->
+      <!-- <a href="#" role="button" class="btn btn-default btn-lg open-floor" floor="2" url="img/floors/building_old.floor_2.png">Floor 2</a> -->
+      <!-- <a href="#" role="button" class="btn btn-default btn-lg open-floor" floor="3" url="img/floors/building_old.floor_3.png">Floor 3</a> -->
+      <!-- <a href="#" role="button" class="btn btn-default btn-lg open-floor" floor="4" url="img/floors/building_old.floor_4.png">Floor 4</a> -->
+      <!-- <a href="#" role="button" class="btn btn-default btn-lg open-floor" floor="5" url="img/floors/building_old.floor_5.png">Floor 5</a> -->
+      <!-- <a href="#" role="button" class="btn btn-default btn-lg open-floor" floor="6" url="img/floors/building_old.floor_6.png">Floor 6</a> -->
+    </p>
+
+    <h1>Floor 1</h1>
+    <p>
+      <a href="#" role="button" class="btn btn-default btn-primary btn-lg change-state" state="0">Cursor</a>
+      <a href="#" role="button" class="btn btn-default btn-lg change-state" state="1">Waypoints</a>
+      <a href="#" role="button" class="btn btn-default btn-lg change-state" state="2">Endpoints</a>
+      <a href="#" role="button" class="btn btn-default btn-lg change-state" state="3">Connection</a>
+    </p>
+
+    <div id="form">
+
+      <div id="form-marker" align="center">
+        <h3>Marker</h3>
+        <span class="marker-type"></span><br/>
+        <b>ID</b><br/><input type="text" class="marker-id"><br/>
+        <b>Position X</b><br/><input type="text" class="marker-pos-x"><br/>
+        <b>Position Y</b><br/><input type="text" class="marker-pos-y"><br/>
+        <b>Room</b><br/><input type="text" class="marker-room"><br/>
+        <b>Neighboor</b><br/><span type="text" class="marker-neighboors"></span><br/>  
+        <b>Floor</b><br/><span class="marker-floor"></span><br/> 
+        <a href="#" role="button" class="btn btn-success btn-lg save-marker">Save</a>
+        <a href="#" role="button" class="btn btn-danger btn-lg remove-marker">Remove</a>
+        
+      </div>  
+
+      <div id="form-connection" align="center">
+        <h3>Connection</h3>
+        <b>ID1: </b><span class="connection-id1"></span><br/>
+        <b>ID2: </b><span class="connection-id2"></span><br/>
+        <a href="#" role="button" class="btn btn-danger btn-lg remove-connection">Remove</a>
+      </div>
+
+      
+
+    </div>
+    <div id="image-map"></div>
+
+    <a href="#" role="button" class="btn btn-primary btn-lg generate-json">Generate JSON</a><br/>
+
+
+
+
+    <h2>JSON Output/Input</h2>
+    <textarea class="json-output" cols="200" rows="10"></textarea><br/>
+    <a href="#" role="button" class="btn btn-success btn-lg load-json">Load JSON</a>
+
+
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <script src="js/main.js"></script>
+
+  </body>
+</html>
